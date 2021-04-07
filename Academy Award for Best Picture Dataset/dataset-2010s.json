@@ -1,0 +1,5257 @@
+[
+  {
+    "title": "The King's Speech",
+    "Directed by": "Tom Hooper",
+    "Produced by": [
+      "Iain Canning",
+      "Emile Sherman",
+      "Gareth Unwin"
+    ],
+    "Screenplay by": "David Seidler",
+    "Starring": [
+      "Colin Firth",
+      "Geoffrey Rush",
+      "Helena Bonham Carter",
+      "Guy Pearce",
+      "Timothy Spall",
+      "Derek Jacobi",
+      "Jennifer Ehle",
+      "Michael Gambon"
+    ],
+    "Music by": "Alexandre Desplat",
+    "Cinematography": "Danny Cohen",
+    "Edited by": "Tariq Anwar",
+    "Production companies": [
+      "UK Film Council",
+      "Momentum Pictures",
+      "Aegis Film Fund",
+      "Molinare, London",
+      "FilmNation Entertainment",
+      "See-Saw Films",
+      "Bedlam Productions"
+    ],
+    "Distributed by": [
+      "Momentum Pictures (United Kingdom)",
+      "Paramount Pictures (Australia and New Zealand)"
+    ],
+    "Release date": [
+      "6 September 2010 ( Telluride Film Festival )",
+      "23 December 2010 (Australia)",
+      "7 January 2011 (United Kingdom)"
+    ],
+    "Running time": "119 minutes",
+    "Countries": [
+      "United Kingdom",
+      "Australia"
+    ],
+    "Language": "English",
+    "Budget": "$15 million",
+    "Box office": "$427.4 million",
+    "Running time (int)": 119,
+    "Budget (float)": 15000000.0,
+    "Box office (float)": 427400000.0,
+    "Release date (datetime)": "2010-09-06T00:00:00",
+    "Profit (float)": 412400000.0,
+    "IMDB Rating": "8.0",
+    "Metascore": "88",
+    "Rotten Tomatoes Score": "94%",
+    "Genres": "Biography, Drama, History",
+    "Maturity Rating": "R",
+    "Awards": "Won 4 Oscars. Another 104 wins & 206 nominations.",
+    "IMDB Rating (float)": 8.0,
+    "Metascore (int)": 88,
+    "Rotten Tomatoes Score (int)": "94"
+  },
+  {
+    "title": "127 Hours",
+    "Directed by": "Danny Boyle",
+    "Produced by": [
+      "Danny Boyle",
+      "Christian Colson",
+      "John Smithson"
+    ],
+    "Screenplay by": [
+      "Danny Boyle",
+      "Simon Beaufoy"
+    ],
+    "Based on": [
+      "Between a Rock and a Hard Place",
+      "by",
+      "Aron Ralston"
+    ],
+    "Starring": "James Franco",
+    "Music by": "A. R. Rahman",
+    "Cinematography": [
+      "Anthony Dod Mantle",
+      "Enrique Chediak"
+    ],
+    "Edited by": "Jon Harris",
+    "Production companies": [
+      "Pathé",
+      "Everest Entertainment",
+      "Film4 Productions",
+      "HandMade Films",
+      "Cloud Eight Films"
+    ],
+    "Distributed by": [
+      "Warner Bros. Entertainment UK (United Kingdom)",
+      "Fox Searchlight Pictures (United States)"
+    ],
+    "Release date": [
+      "4 September 2010 ( Telluride Film Festival )",
+      "5 November 2010 (United States)",
+      "7 January 2011 (United Kingdom)"
+    ],
+    "Running time": "94 minutes",
+    "Countries": [
+      "United Kingdom",
+      "United States"
+    ],
+    "Language": "English",
+    "Budget": "$18 million",
+    "Box office": "$60.7 million",
+    "Running time (int)": 94,
+    "Budget (float)": 18000000.0,
+    "Box office (float)": 60700000.0,
+    "Release date (datetime)": "2010-09-04T00:00:00",
+    "Profit (float)": 42700000.0,
+    "IMDB Rating": "7.5",
+    "Metascore": "82",
+    "Rotten Tomatoes Score": "93%",
+    "Genres": "Biography, Drama",
+    "Maturity Rating": "R",
+    "Awards": "Nominated for 6 Oscars. Another 23 wins & 144 nominations.",
+    "IMDB Rating (float)": 7.5,
+    "Metascore (int)": 82,
+    "Rotten Tomatoes Score (int)": "93"
+  },
+  {
+    "title": "Black Swan",
+    "Directed by": "Darren Aronofsky",
+    "Produced by": [
+      "Mike Medavoy",
+      "Arnold W. Messer",
+      "Brian Oliver",
+      "Scott Franklin"
+    ],
+    "Screenplay by": [
+      "Mark Heyman",
+      "Andres Heinz",
+      "John McLaughlin"
+    ],
+    "Story by": "Andres Heinz",
+    "Starring": [
+      "Natalie Portman",
+      "Vincent Cassel",
+      "Mila Kunis",
+      "Barbara Hershey",
+      "Winona Ryder"
+    ],
+    "Music by": "Clint Mansell",
+    "Cinematography": "Matthew Libatique",
+    "Edited by": "Andrew Weisblum",
+    "Production companies": [
+      "Cross Creek Pictures",
+      "Protozoa Pictures",
+      "Phoenix Pictures",
+      "Dune Entertainment"
+    ],
+    "Distributed by": "Fox Searchlight Pictures",
+    "Release date": [
+      "September 1, 2010 ( Venice )",
+      "December 3, 2010 (United States)"
+    ],
+    "Running time": "108 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$13 million",
+    "Box office": "$330 million",
+    "Running time (int)": 108,
+    "Budget (float)": 13000000.0,
+    "Box office (float)": 330000000.0,
+    "Release date (datetime)": "2010-09-01T00:00:00",
+    "Profit (float)": 317000000.0,
+    "IMDB Rating": "8.0",
+    "Metascore": "79",
+    "Rotten Tomatoes Score": "85%",
+    "Genres": "Drama, Thriller",
+    "Maturity Rating": "R",
+    "Awards": "Won 1 Oscar. Another 96 wins & 278 nominations.",
+    "IMDB Rating (float)": 8.0,
+    "Metascore (int)": 79,
+    "Rotten Tomatoes Score (int)": "85"
+  },
+  {
+    "title": "The Fighter",
+    "Directed by": "David O. Russell",
+    "Produced by": [
+      "Dorothy Aufiero",
+      "David Hoberman",
+      "Todd Lieberman",
+      "Ryan Kavanaugh",
+      "Paul Tamasy",
+      "Mark Wahlberg"
+    ],
+    "Screenplay by": [
+      "Paul Tamasy",
+      "Eric Johnson",
+      "Scott Silver"
+    ],
+    "Story by": [
+      "Keith Dorrington",
+      "Paul Tamasy",
+      "Eric Johnson"
+    ],
+    "Starring": [
+      "Mark Wahlberg",
+      "Christian Bale",
+      "Amy Adams",
+      "Melissa Leo"
+    ],
+    "Music by": "Michael Brook",
+    "Cinematography": "Hoyte van Hoytema",
+    "Edited by": "Pamela Martin",
+    "Production companies": [
+      "Closest to the Hole Productions",
+      "Mandeville Films",
+      "Relativity Media",
+      "Protozoa Pictures"
+    ],
+    "Distributed by": [
+      "Paramount Pictures (North America/United Kingdom)",
+      "The Weinstein Company (International)"
+    ],
+    "Release date": [
+      "December 6, 2010 ( Grauman's Chinese Theatre )",
+      "December 10, 2010 (United States)"
+    ],
+    "Running time": "116 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$25 million",
+    "Box office": "$129.2 million",
+    "Running time (int)": 116,
+    "Budget (float)": 25000000.0,
+    "Box office (float)": 129200000.0,
+    "Release date (datetime)": "2010-12-06T00:00:00",
+    "Profit (float)": 104200000.0,
+    "IMDB Rating": "7.8",
+    "Metascore": "79",
+    "Rotten Tomatoes Score": "90%",
+    "Genres": "Biography, Drama, Sport",
+    "Maturity Rating": "R",
+    "Awards": "Won 2 Oscars. Another 71 wins & 124 nominations.",
+    "IMDB Rating (float)": 7.8,
+    "Metascore (int)": 79,
+    "Rotten Tomatoes Score (int)": "90"
+  },
+  {
+    "title": "Inception",
+    "Directed by": "Christopher Nolan",
+    "Produced by": [
+      "Emma Thomas",
+      "Christopher Nolan"
+    ],
+    "Written by": "Christopher Nolan",
+    "Starring": [
+      "Leonardo DiCaprio",
+      "Ken Watanabe",
+      "Joseph Gordon-Levitt",
+      "Marion Cotillard",
+      "Elliot Page",
+      "Tom Hardy",
+      "Cillian Murphy",
+      "Tom Berenger",
+      "Michael Caine"
+    ],
+    "Music by": "Hans Zimmer",
+    "Cinematography": "Wally Pfister",
+    "Edited by": "Lee Smith",
+    "Production companies": [
+      "Legendary Pictures",
+      "Syncopy"
+    ],
+    "Distributed by": "Warner Bros. Pictures",
+    "Release date": [
+      "July 8, 2010 ( Odeon Leicester Square )",
+      "July 16, 2010 (United States and United Kingdom)"
+    ],
+    "Running time": "148 minutes",
+    "Countries": [
+      "United States",
+      "United Kingdom"
+    ],
+    "Language": "English",
+    "Budget": "$160 million",
+    "Box office": "$836.8 million",
+    "Running time (int)": 148,
+    "Budget (float)": 160000000.0,
+    "Box office (float)": 836800000.0,
+    "Release date (datetime)": "2010-07-08T00:00:00",
+    "Profit (float)": 676800000.0,
+    "IMDB Rating": "8.8",
+    "Metascore": "74",
+    "Rotten Tomatoes Score": "87%",
+    "Genres": "Action, Adventure, Sci-Fi, Thriller",
+    "Maturity Rating": "PG-13",
+    "Awards": "Won 4 Oscars. Another 151 wins & 219 nominations.",
+    "IMDB Rating (float)": 8.8,
+    "Metascore (int)": 74,
+    "Rotten Tomatoes Score (int)": "87"
+  },
+  {
+    "title": "The Kids Are All Right",
+    "Directed by": "Lisa Cholodenko",
+    "Produced by": [
+      "Gary Gilbert",
+      "Jeffrey Levy-Hinte",
+      "Celine Rattray",
+      "Jordan Horowitz",
+      "Daniela Taplin Lundberg",
+      "Philippe Hellmann",
+      "Joel Newton"
+    ],
+    "Written by": [
+      "Lisa Cholodenko",
+      "Stuart Blumberg"
+    ],
+    "Starring": [
+      "Annette Bening",
+      "Julianne Moore",
+      "Mark Ruffalo",
+      "Mia Wasikowska",
+      "Josh Hutcherson"
+    ],
+    "Music by": "Carter Burwell",
+    "Cinematography": "Igor Jadue-Lillo",
+    "Edited by": "Jeffrey M. Werner",
+    "Production companies": [
+      "Gilbert Films",
+      "Saint Aire Productions",
+      "Artist International",
+      "10th Hole Productions",
+      "Antidote Films",
+      "Mandalay Vision"
+    ],
+    "Distributed by": "Focus Features",
+    "Release date": [
+      "January 25, 2010 (Sundance Film Festival)",
+      "July 9, 2010 (United States)"
+    ],
+    "Running time": "107 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$4 million",
+    "Box office": "$34.7 million",
+    "Running time (int)": 107,
+    "Budget (float)": 4000000.0,
+    "Box office (float)": 34700000.0,
+    "Release date (datetime)": "2010-01-25T00:00:00",
+    "Profit (float)": 30700000.0,
+    "IMDB Rating": "7.0",
+    "Metascore": "86",
+    "Rotten Tomatoes Score": "92%",
+    "Genres": "Comedy, Drama, Romance",
+    "Maturity Rating": "R",
+    "Awards": "Nominated for 4 Oscars. Another 29 wins & 129 nominations.",
+    "IMDB Rating (float)": 7.0,
+    "Metascore (int)": 86,
+    "Rotten Tomatoes Score (int)": "92"
+  },
+  {
+    "title": "The Social Network",
+    "Directed by": "David Fincher",
+    "Produced by": [
+      "Scott Rudin",
+      "Dana Brunetti",
+      "Michael De Luca",
+      "Ceán Chaffin"
+    ],
+    "Screenplay by": "Aaron Sorkin",
+    "Based on": [
+      "The Accidental Billionaires",
+      "by",
+      "Ben Mezrich"
+    ],
+    "Starring": [
+      "Jesse Eisenberg",
+      "Andrew Garfield",
+      "Justin Timberlake",
+      "Armie Hammer",
+      "Max Minghella"
+    ],
+    "Music by": [
+      "Trent Reznor",
+      "Atticus Ross"
+    ],
+    "Cinematography": "Jeff Cronenweth",
+    "Edited by": [
+      "Angus Wall",
+      "Kirk Baxter"
+    ],
+    "Production companies": [
+      "Columbia Pictures",
+      "Relativity Media",
+      "Scott Rudin Productions",
+      "Michael De Luca Productions",
+      "Trigger Street Productions"
+    ],
+    "Distributed by": "Sony Pictures Releasing",
+    "Release date": [
+      "September 24, 2010 ( NYFF )",
+      "October 1, 2010 (United States)"
+    ],
+    "Running time": "120 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$40 million",
+    "Box office": "$224.9 million",
+    "Running time (int)": 120,
+    "Budget (float)": 40000000.0,
+    "Box office (float)": 224900000.0,
+    "Release date (datetime)": "2010-09-24T00:00:00",
+    "Profit (float)": 184900000.0,
+    "IMDB Rating": "7.7",
+    "Metascore": "95",
+    "Rotten Tomatoes Score": "96%",
+    "Genres": "Biography, Drama",
+    "Maturity Rating": "PG-13",
+    "Awards": "Won 3 Oscars. Another 168 wins & 186 nominations.",
+    "IMDB Rating (float)": 7.7,
+    "Metascore (int)": 95,
+    "Rotten Tomatoes Score (int)": "96"
+  },
+  {
+    "title": "Toy Story 3",
+    "Directed by": "Lee Unkrich",
+    "Produced by": "Darla K. Anderson",
+    "Screenplay by": "Michael Arndt",
+    "Story by": [
+      "John Lasseter",
+      "Andrew Stanton",
+      "Lee Unkrich"
+    ],
+    "Starring": [
+      "Tom Hanks",
+      "Tim Allen",
+      "Joan Cusack",
+      "Don Rickles",
+      "Wallace Shawn",
+      "John Ratzenberger",
+      "Estelle Harris",
+      "Ned Beatty",
+      "Michael Keaton",
+      "Jodi Benson",
+      "John Morris"
+    ],
+    "Music by": "Randy Newman",
+    "Cinematography": [
+      "Jeremy Lasky",
+      "Kim White"
+    ],
+    "Edited by": "Ken Schretzmann",
+    "Production companies": [
+      "Walt Disney Pictures",
+      "Pixar Animation Studios"
+    ],
+    "Distributed by": [
+      "Walt Disney Studios",
+      "Motion Pictures"
+    ],
+    "Release date": [
+      "June 12, 2010 ( Taormina Film Fest )",
+      "June 18, 2010 (United States)"
+    ],
+    "Running time": "103 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$200 million",
+    "Box office": "$1.067 billion",
+    "Running time (int)": 103,
+    "Budget (float)": 200000000.0,
+    "Box office (float)": 1067000000.0,
+    "Release date (datetime)": "2010-06-12T00:00:00",
+    "Profit (float)": 867000000.0,
+    "IMDB Rating": "8.2",
+    "Metascore": "92",
+    "Rotten Tomatoes Score": "98%",
+    "Genres": "Animation, Adventure, Comedy, Family, Fantasy",
+    "Maturity Rating": "G",
+    "Awards": "Won 2 Oscars. Another 59 wins & 95 nominations.",
+    "IMDB Rating (float)": 8.2,
+    "Metascore (int)": 92,
+    "Rotten Tomatoes Score (int)": "98"
+  },
+  {
+    "title": "True Grit",
+    "Directed by": [
+      "Joel Coen",
+      "Ethan Coen"
+    ],
+    "Produced by": [
+      "Joel Coen",
+      "Ethan Coen",
+      "Scott Rudin"
+    ],
+    "Screenplay by": [
+      "Joel Coen",
+      "Ethan Coen"
+    ],
+    "Based on": [
+      "True Grit",
+      "by",
+      "Charles Portis"
+    ],
+    "Starring": [
+      "Hailee Steinfeld",
+      "Jeff Bridges",
+      "Matt Damon",
+      "Josh Brolin",
+      "Barry Pepper"
+    ],
+    "Music by": "Carter Burwell",
+    "Cinematography": "Roger Deakins",
+    "Edited by": "Roderick Jaynes",
+    "Production companies": [
+      "Skydance Productions",
+      "Mike Zoss Productions",
+      "Scott Rudin Productions"
+    ],
+    "Distributed by": "Paramount Pictures",
+    "Release date": [
+      "December 22, 2010"
+    ],
+    "Running time": "110 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$38 million",
+    "Box office": "$252.3 million",
+    "Running time (int)": 110,
+    "Budget (float)": 38000000.0,
+    "Box office (float)": 252300000.0,
+    "Release date (datetime)": "2010-12-22T00:00:00",
+    "Profit (float)": 214300000.0,
+    "IMDB Rating": "7.6",
+    "Metascore": "80",
+    "Rotten Tomatoes Score": "95%",
+    "Genres": "Drama, Western",
+    "Maturity Rating": "PG-13",
+    "Awards": "Nominated for 10 Oscars. Another 37 wins & 159 nominations.",
+    "IMDB Rating (float)": 7.6,
+    "Metascore (int)": 80,
+    "Rotten Tomatoes Score (int)": "95"
+  },
+  {
+    "title": "Winter's Bone",
+    "Directed by": "Debra Granik",
+    "Produced by": [
+      "Anne Rosellini",
+      "Alix Madigan-Yorkin"
+    ],
+    "Screenplay by": [
+      "Debra Granik",
+      "Anne Rosellini"
+    ],
+    "Based on": [
+      "Winter's Bone",
+      "by",
+      "Daniel Woodrell"
+    ],
+    "Starring": [
+      "Jennifer Lawrence",
+      "John Hawkes",
+      "Kevin Breznahan",
+      "Dale Dickey",
+      "Garret Dillahunt",
+      "Sheryl Lee",
+      "Tate Taylor"
+    ],
+    "Music by": "Dickon Hinchliffe",
+    "Cinematography": "Michael McDonough",
+    "Edited by": "Affonso Gonçalves",
+    "Production companies": [
+      "Anonymous Content",
+      "Winter's Bone Productions"
+    ],
+    "Distributed by": "Roadside Attractions",
+    "Release date": [
+      "January 21, 2010 ( Sundance )",
+      "June 11, 2010 (United States)"
+    ],
+    "Running time": "100 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$2 million",
+    "Box office": "$16.1 million",
+    "Running time (int)": 100,
+    "Budget (float)": 2000000.0,
+    "Box office (float)": 16100000.0,
+    "Release date (datetime)": "2010-01-21T00:00:00",
+    "Profit (float)": 14100000.0,
+    "IMDB Rating": "7.1",
+    "Metascore": "90",
+    "Rotten Tomatoes Score": "94%",
+    "Genres": "Adventure, Drama, Mystery",
+    "Maturity Rating": "R",
+    "Awards": "Nominated for 4 Oscars. Another 63 wins & 127 nominations.",
+    "IMDB Rating (float)": 7.1,
+    "Metascore (int)": 90,
+    "Rotten Tomatoes Score (int)": "94"
+  },
+  {
+    "title": "The Artist",
+    "Directed by": "Michel Hazanavicius",
+    "Produced by": "Thomas Langmann",
+    "Written by": "Michel Hazanavicius",
+    "Starring": [
+      "Jean Dujardin",
+      "Bérénice Bejo",
+      "James Cromwell",
+      "Penelope Ann Miller",
+      "Malcolm McDowell",
+      "Missi Pyle",
+      "Beth Grant",
+      "Ed Lauter",
+      "Joel Murray",
+      "Ken Davitian",
+      "John Goodman"
+    ],
+    "Music by": "Ludovic Bource",
+    "Cinematography": "Guillaume Schiffman",
+    "Edited by": [
+      "Anne-Sophie Bion",
+      "Michel Hazanavicius"
+    ],
+    "Production companies": [
+      "La Petite Reine",
+      "ARP Sélection",
+      "Studio 37",
+      "La Classe Américaine",
+      "France 3 Cinema",
+      "U Film",
+      "Jouror Productions",
+      "JD Prod"
+    ],
+    "Distributed by": "Warner Bros. France",
+    "Release date": [
+      "15 May 2011 ( Cannes )",
+      "12 October 2011 (France)"
+    ],
+    "Running time": "100 minutes",
+    "Country": "France",
+    "Budget": "$15 million",
+    "Box office": "$133.4 million",
+    "Running time (int)": 100,
+    "Budget (float)": 15000000.0,
+    "Box office (float)": 133400000.0,
+    "Release date (datetime)": "2011-05-15T00:00:00",
+    "Profit (float)": 118400000.0,
+    "IMDB Rating": "7.9",
+    "Metascore": "89",
+    "Rotten Tomatoes Score": "95%",
+    "Genres": "Comedy, Drama, Romance",
+    "Maturity Rating": "PG-13",
+    "Awards": "Won 5 Oscars. Another 156 wins & 204 nominations.",
+    "IMDB Rating (float)": 7.9,
+    "Metascore (int)": 89,
+    "Rotten Tomatoes Score (int)": "95"
+  },
+  {
+    "title": "The Descendants",
+    "Directed by": "Alexander Payne",
+    "Produced by": [
+      "Jim Burke",
+      "Alexander Payne",
+      "Jim Taylor"
+    ],
+    "Screenplay by": [
+      "Alexander Payne",
+      "Nat Faxon",
+      "Jim Rash"
+    ],
+    "Based on": [
+      "The Descendants",
+      "by",
+      "Kaui Hart Hemmings"
+    ],
+    "Starring": [
+      "George Clooney",
+      "Shailene Woodley",
+      "Beau Bridges",
+      "Judy Greer"
+    ],
+    "Cinematography": "Phedon Papamichael",
+    "Edited by": "Kevin Tent",
+    "Production company": "Ad Hominem Enterprises",
+    "Distributed by": "Fox Searchlight Pictures",
+    "Release date": [
+      "September 10, 2011 ( TIFF )",
+      "November 18, 2011 (United States )"
+    ],
+    "Running time": "115 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$20 million",
+    "Box office": "$177.2 million",
+    "Running time (int)": 115,
+    "Budget (float)": 20000000.0,
+    "Box office (float)": 177200000.0,
+    "Release date (datetime)": "2011-09-10T00:00:00",
+    "Profit (float)": 157200000.0,
+    "IMDB Rating": "7.3",
+    "Metascore": "84",
+    "Rotten Tomatoes Score": "87%",
+    "Genres": "Comedy, Drama",
+    "Maturity Rating": "R",
+    "Awards": "Won 1 Oscar. Another 64 wins & 147 nominations.",
+    "IMDB Rating (float)": 7.3,
+    "Metascore (int)": 84,
+    "Rotten Tomatoes Score (int)": "87"
+  },
+  {
+    "title": "Extremely Loud & Incredibly Close",
+    "Directed by": "Stephen Daldry",
+    "Produced by": "Scott Rudin",
+    "Screenplay by": "Eric Roth",
+    "Based on": [
+      "Extremely Loud & Incredibly Close",
+      "by",
+      "Jonathan Safran Foer"
+    ],
+    "Starring": [
+      "Tom Hanks",
+      "Sandra Bullock",
+      "Thomas Horn",
+      "Max von Sydow",
+      "Viola Davis",
+      "John Goodman",
+      "Jeffrey Wright"
+    ],
+    "Music by": "Alexandre Desplat",
+    "Cinematography": "Chris Menges",
+    "Edited by": "Claire Simpson",
+    "Production company": "Scott Rudin Productions",
+    "Distributed by": "Warner Bros. Pictures",
+    "Release date": [
+      "December 25, 2011"
+    ],
+    "Running time": "129 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$40 million",
+    "Box office": "$55.2 million",
+    "Running time (int)": 129,
+    "Budget (float)": 40000000.0,
+    "Box office (float)": 55200000.0,
+    "Release date (datetime)": "2011-12-25T00:00:00",
+    "Profit (float)": 15200000.0,
+    "IMDB Rating": "6.9",
+    "Metascore": "46",
+    "Rotten Tomatoes Score": "45%",
+    "Genres": "Adventure, Drama, Mystery",
+    "Maturity Rating": "PG-13",
+    "Awards": "Nominated for 2 Oscars. Another 8 wins & 23 nominations.",
+    "IMDB Rating (float)": 6.9,
+    "Metascore (int)": 46,
+    "Rotten Tomatoes Score (int)": "45"
+  },
+  {
+    "title": "The Help",
+    "Directed by": "Tate Taylor",
+    "Produced by": [
+      "Chris Columbus",
+      "Michael Barnathan",
+      "Brunson Green"
+    ],
+    "Screenplay by": "Tate Taylor",
+    "Based on": [
+      "The Help",
+      "by",
+      "Kathryn Stockett"
+    ],
+    "Starring": [
+      "Jessica Chastain",
+      "Viola Davis",
+      "Bryce Dallas Howard",
+      "Allison Janney",
+      "Octavia Spencer",
+      "Emma Stone"
+    ],
+    "Music by": "Thomas Newman",
+    "Cinematography": "Stephen Goldblatt",
+    "Edited by": "Hughes Winborne",
+    "Production companies": [
+      "DreamWorks Pictures",
+      "Reliance Entertainment",
+      "Participant Media",
+      "Image Nation",
+      "1492 Pictures",
+      "Harbinger Pictures"
+    ],
+    "Distributed by": [
+      "Walt Disney Studios",
+      "Motion Pictures"
+    ],
+    "Release date": [
+      "August 9, 2011 ( Beverly Hills )",
+      "August 10, 2011 (United States)"
+    ],
+    "Running time": "146 minutes",
+    "Countries": [
+      "United States",
+      "India",
+      "United Arab Emirates"
+    ],
+    "Language": "English",
+    "Budget": "$25 million",
+    "Box office": "$216.6 million",
+    "Running time (int)": 146,
+    "Budget (float)": 25000000.0,
+    "Box office (float)": 216600000.0,
+    "Release date (datetime)": "2011-08-09T00:00:00",
+    "Profit (float)": 191600000.0,
+    "IMDB Rating": "8.0",
+    "Metascore": "62",
+    "Rotten Tomatoes Score": "76%",
+    "Genres": "Drama",
+    "Maturity Rating": "PG-13",
+    "Awards": "Won 1 Oscar. Another 78 wins & 121 nominations.",
+    "IMDB Rating (float)": 8.0,
+    "Metascore (int)": 62,
+    "Rotten Tomatoes Score (int)": "76"
+  },
+  {
+    "title": "Hugo",
+    "Directed by": "Martin Scorsese",
+    "Produced by": [
+      "Graham King",
+      "Timothy Headington",
+      "Martin Scorsese",
+      "Johnny Depp"
+    ],
+    "Screenplay by": [
+      "John Logan"
+    ],
+    "Based on": [
+      "The Invention of Hugo Cabret",
+      "by",
+      "Brian Selznick"
+    ],
+    "Starring": [
+      "Ben Kingsley",
+      "Sacha Baron Cohen",
+      "Asa Butterfield",
+      "Chloë Grace Moretz",
+      "Ray Winstone",
+      "Emily Mortimer",
+      "Jude Law"
+    ],
+    "Music by": "Howard Shore",
+    "Cinematography": "Robert Richardson",
+    "Edited by": "Thelma Schoonmaker",
+    "Production companies": [
+      "GK Films",
+      "Infinitum Nihil"
+    ],
+    "Distributed by": "Paramount Pictures",
+    "Release date": [
+      "October 10, 2011 ( NYFF )",
+      "November 23, 2011 (United States)"
+    ],
+    "Running time": "126 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$150–170 million",
+    "Box office": "$185.8 million",
+    "Running time (int)": 126,
+    "Budget (float)": 150000000.0,
+    "Box office (float)": 185800000.0,
+    "Release date (datetime)": "2011-10-10T00:00:00",
+    "Profit (float)": 35800000.0,
+    "IMDB Rating": "7.5",
+    "Metascore": "83",
+    "Rotten Tomatoes Score": "93%",
+    "Genres": "Drama, Family, Fantasy, Mystery",
+    "Maturity Rating": "PG",
+    "Awards": "Won 5 Oscars. Another 56 wins & 191 nominations.",
+    "IMDB Rating (float)": 7.5,
+    "Metascore (int)": 83,
+    "Rotten Tomatoes Score (int)": "93"
+  },
+  {
+    "title": "Midnight in Paris",
+    "Directed by": "Woody Allen",
+    "Produced by": [
+      "Letty Aronson",
+      "Stephen Tenenbaum",
+      "Jaume Roures"
+    ],
+    "Written by": "Woody Allen",
+    "Starring": [
+      "Kathy Bates",
+      "Adrien Brody",
+      "Carla Bruni",
+      "Marion Cotillard",
+      "Rachel McAdams",
+      "Michael Sheen",
+      "Owen Wilson"
+    ],
+    "Cinematography": "Darius Khondji",
+    "Edited by": "Alisa Lepselter",
+    "Production companies": [
+      "Gravier Productions",
+      "Mediapro",
+      "Televisió de Catalunya (TV3)",
+      "Versátil Cinema"
+    ],
+    "Distributed by": "Sony Pictures Classics",
+    "Release date": [
+      "May 11, 2011 ( Cannes )",
+      "May 13, 2011 (Spain)",
+      "May 20, 2011 (United States)"
+    ],
+    "Running time": "94 minutes",
+    "Countries": [
+      "United States",
+      "Spain"
+    ],
+    "Language": "English",
+    "Budget": "$17 million",
+    "Box office": "$154.1 million",
+    "Running time (int)": 94,
+    "Budget (float)": 17000000.0,
+    "Box office (float)": 154100000.0,
+    "Release date (datetime)": "2011-05-11T00:00:00",
+    "Profit (float)": 137100000.0,
+    "IMDB Rating": "7.7",
+    "Metascore": "81",
+    "Rotten Tomatoes Score": "93%",
+    "Genres": "Comedy, Fantasy, Romance",
+    "Maturity Rating": "PG-13",
+    "Awards": "Won 1 Oscar. Another 25 wins & 102 nominations.",
+    "IMDB Rating (float)": 7.7,
+    "Metascore (int)": 81,
+    "Rotten Tomatoes Score (int)": "93"
+  },
+  {
+    "title": "Moneyball",
+    "Directed by": "Bennett Miller",
+    "Produced by": [
+      "Michael De Luca",
+      "Rachael Horovitz",
+      "Brad Pitt"
+    ],
+    "Screenplay by": [
+      "Steven Zaillian",
+      "Aaron Sorkin"
+    ],
+    "Story by": "Stan Chervin",
+    "Based on": [
+      "Moneyball: The Art of Winning an Unfair Game",
+      "by",
+      "Michael Lewis"
+    ],
+    "Starring": [
+      "Brad Pitt",
+      "Jonah Hill",
+      "Philip Seymour Hoffman"
+    ],
+    "Music by": "Mychael Danna",
+    "Cinematography": "Wally Pfister",
+    "Edited by": "Christopher Tellefsen",
+    "Production companies": [
+      "Columbia Pictures",
+      "Scott Rudin Productions",
+      "Michael De Luca Productions",
+      "Rachael Horovitz Productions"
+    ],
+    "Distributed by": "Sony Pictures Releasing",
+    "Release date": [
+      "September 9, 2011 ( TIFF )",
+      "September 23, 2011 (United States)"
+    ],
+    "Running time": "133 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$50 million",
+    "Box office": "$110.2 million",
+    "Running time (int)": 133,
+    "Budget (float)": 50000000.0,
+    "Box office (float)": 110200000.0,
+    "Release date (datetime)": "2011-09-09T00:00:00",
+    "Profit (float)": 60200000.0,
+    "IMDB Rating": "7.6",
+    "Metascore": "87",
+    "Rotten Tomatoes Score": "94%",
+    "Genres": "Biography, Drama, Sport",
+    "Maturity Rating": "PG-13",
+    "Awards": "Nominated for 6 Oscars. Another 29 wins & 76 nominations.",
+    "IMDB Rating (float)": 7.6,
+    "Metascore (int)": 87,
+    "Rotten Tomatoes Score (int)": "94"
+  },
+  {
+    "title": "The Tree of Life",
+    "Directed by": "Terrence Malick",
+    "Produced by": [
+      "Sarah Green",
+      "Bill Pohlad",
+      "Brad Pitt",
+      "Dede Gardner",
+      "Grant Hill"
+    ],
+    "Written by": "Terrence Malick",
+    "Starring": [
+      "Brad Pitt",
+      "Sean Penn",
+      "Jessica Chastain"
+    ],
+    "Music by": "Alexandre Desplat",
+    "Cinematography": "Emmanuel Lubezki",
+    "Edited by": [
+      "Hank Corwin",
+      "Jay Rabinowitz",
+      "Daniel Rezende",
+      "Billy Weber",
+      "Mark Yoshikawa"
+    ],
+    "Production companies": [
+      "River Road Entertainment",
+      "Plan B Entertainment"
+    ],
+    "Distributed by": "Fox Searchlight Pictures",
+    "Release date": [
+      "May 16, 2011 ( Cannes )",
+      "May 27, 2011 (United States)"
+    ],
+    "Running time": [
+      "139 minutes"
+    ],
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$32 million",
+    "Box office": "$61.7 million",
+    "Running time (int)": 139,
+    "Budget (float)": 32000000.0,
+    "Box office (float)": 61700000.0,
+    "Release date (datetime)": "2011-05-16T00:00:00",
+    "Profit (float)": 29700000.0,
+    "IMDB Rating": "6.8",
+    "Metascore": "85",
+    "Rotten Tomatoes Score": "84%",
+    "Genres": "Drama, Fantasy",
+    "Maturity Rating": "PG-13",
+    "Awards": "Nominated for 3 Oscars. Another 116 wins & 125 nominations.",
+    "IMDB Rating (float)": 6.8,
+    "Metascore (int)": 85,
+    "Rotten Tomatoes Score (int)": "84"
+  },
+  {
+    "title": "War Horse",
+    "Directed by": "Steven Spielberg",
+    "Produced by": [
+      "Steven Spielberg",
+      "Kathleen Kennedy"
+    ],
+    "Screenplay by": [
+      "Lee Hall",
+      "Richard Curtis"
+    ],
+    "Based on": [
+      "War Horse by Michael Morpurgo",
+      "War Horse by Nick Stafford"
+    ],
+    "Starring": [
+      "Emily Watson",
+      "David Thewlis",
+      "Peter Mullan",
+      "Niels Arestrup",
+      "Jeremy Irvine"
+    ],
+    "Music by": "John Williams",
+    "Cinematography": "Janusz Kamiński",
+    "Edited by": "Michael Kahn",
+    "Production companies": [
+      "DreamWorks Pictures",
+      "Reliance Entertainment",
+      "Amblin Entertainment",
+      "The Kennedy/Marshall Company"
+    ],
+    "Distributed by": [
+      "Walt Disney Studios",
+      "Motion Pictures"
+    ],
+    "Release date": [
+      "4 December 2011 ( Avery Fisher Hall )",
+      "25 December 2011 (United States)"
+    ],
+    "Running time": "146 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$66–70 million",
+    "Box office": "$177.6 million",
+    "Running time (int)": 146,
+    "Budget (float)": 66000000.0,
+    "Box office (float)": 177600000.0,
+    "Release date (datetime)": "2011-12-04T00:00:00",
+    "Profit (float)": 111600000.0,
+    "IMDB Rating": "7.2",
+    "Metascore": "72",
+    "Rotten Tomatoes Score": "74%",
+    "Genres": "Action, Adventure, Drama, History, War",
+    "Maturity Rating": "PG-13",
+    "Awards": "Nominated for 6 Oscars. Another 15 wins & 71 nominations.",
+    "IMDB Rating (float)": 7.2,
+    "Metascore (int)": 72,
+    "Rotten Tomatoes Score (int)": "74"
+  },
+  {
+    "title": "Argo",
+    "Directed by": "Ben Affleck",
+    "Produced by": [
+      "Ben Affleck",
+      "George Clooney",
+      "Grant Heslov"
+    ],
+    "Screenplay by": "Chris Terrio",
+    "Based on": [
+      "The Master of Disguise by Antonio J. Mendez",
+      "The Great Escape: How the CIA Used a Fake Sci-Fi Flick to Rescue Americans from Tehran by Joshuah Bearman"
+    ],
+    "Starring": [
+      "Ben Affleck",
+      "Bryan Cranston",
+      "Alan Arkin",
+      "John Goodman"
+    ],
+    "Music by": "Alexandre Desplat",
+    "Cinematography": "Rodrigo Prieto",
+    "Edited by": "William Goldenberg",
+    "Production companies": [
+      "GK Films",
+      "Smokehouse Pictures"
+    ],
+    "Distributed by": "Warner Bros. Pictures",
+    "Release date": [
+      "August 31, 2012 ( Telluride )",
+      "October 12, 2012 (United States)"
+    ],
+    "Running time": "120 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$44.5 million",
+    "Box office": "$232.3 million",
+    "Running time (int)": 120,
+    "Budget (float)": 44500000.0,
+    "Box office (float)": 232300000.0,
+    "Release date (datetime)": "2012-08-31T00:00:00",
+    "Profit (float)": 187800000.0,
+    "IMDB Rating": "7.7",
+    "Metascore": "86",
+    "Rotten Tomatoes Score": "96%",
+    "Genres": "Biography, Drama, Thriller",
+    "Maturity Rating": "R",
+    "Awards": "Won 3 Oscars. Another 91 wins & 155 nominations.",
+    "IMDB Rating (float)": 7.7,
+    "Metascore (int)": 86,
+    "Rotten Tomatoes Score (int)": "96"
+  },
+  {
+    "title": "Amour",
+    "Directed by": "Michael Haneke",
+    "Produced by": [
+      "Margaret Ménégoz",
+      "Stefan Arndt",
+      "Veit Heiduschka",
+      "Michael Katz"
+    ],
+    "Written by": "Michael Haneke",
+    "Starring": [
+      "Jean-Louis Trintignant",
+      "Emmanuelle Riva",
+      "Isabelle Huppert"
+    ],
+    "Cinematography": "Darius Khondji",
+    "Edited by": [
+      "Monika Willi",
+      "Nadine Muse"
+    ],
+    "Production companies": [
+      "Les Films du Losange",
+      "X-Filme Creative Pool",
+      "Wega Film",
+      "France 3 Cinéma",
+      "Canal+"
+    ],
+    "Distributed by": [
+      "Les Films du Losange",
+      "X-Verleih",
+      "Filmladen"
+    ],
+    "Release date": [
+      "20 May 2012 ( Cannes )",
+      "20 September 2012 (Germany)",
+      "24 October 2012 (France)"
+    ],
+    "Running time": "127 minutes",
+    "Countries": [
+      "France",
+      "Austria",
+      "Germany"
+    ],
+    "Language": "French",
+    "Budget": "$ 8.9 million",
+    "Box office": "$29.9 million",
+    "Running time (int)": 127,
+    "Budget (float)": 8900000.0,
+    "Box office (float)": 29900000.0,
+    "Release date (datetime)": "2012-05-20T00:00:00",
+    "Profit (float)": 21000000.0,
+    "IMDB Rating": "7.9",
+    "Metascore": "94",
+    "Rotten Tomatoes Score": "93%",
+    "Genres": "Drama, Romance",
+    "Maturity Rating": "PG-13",
+    "Awards": "Won 1 Oscar. Another 82 wins & 107 nominations.",
+    "IMDB Rating (float)": 7.9,
+    "Metascore (int)": 94,
+    "Rotten Tomatoes Score (int)": "93"
+  },
+  {
+    "title": "Beasts of the Southern Wild",
+    "Directed by": "Benh Zeitlin",
+    "Produced by": [
+      "Dan Janvey",
+      "Josh Penn",
+      "Michael Gottwald"
+    ],
+    "Screenplay by": [
+      "Lucy Alibar",
+      "Benh Zeitlin"
+    ],
+    "Based on": [
+      "Juicy and Delicious",
+      "by Lucy Alibar"
+    ],
+    "Starring": [
+      "Quvenzhané Wallis",
+      "Dwight Henry"
+    ],
+    "Music by": [
+      "Dan Romer",
+      "Benh Zeitlin"
+    ],
+    "Cinematography": "Ben Richardson",
+    "Edited by": [
+      "Crockett Doob",
+      "Affonso Gonçalves"
+    ],
+    "Production companies": [
+      "Cinereach",
+      "Court 13",
+      "Journeyman Pictures"
+    ],
+    "Distributed by": "Fox Searchlight Pictures",
+    "Release date": [
+      "January 20, 2012 ( Sundance )",
+      "June 27, 2012 (US)"
+    ],
+    "Running time": "93 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$1.8 million",
+    "Box office": "$23.3 million",
+    "Running time (int)": 93,
+    "Budget (float)": 1800000.0,
+    "Box office (float)": 23300000.0,
+    "Release date (datetime)": "2012-01-20T00:00:00",
+    "Profit (float)": 21500000.0,
+    "IMDB Rating": "7.3",
+    "Metascore": "86",
+    "Rotten Tomatoes Score": "86%",
+    "Genres": "Adventure, Drama, Fantasy",
+    "Maturity Rating": "PG-13",
+    "Awards": "Nominated for 4 Oscars. Another 90 wins & 130 nominations.",
+    "IMDB Rating (float)": 7.3,
+    "Metascore (int)": 86,
+    "Rotten Tomatoes Score (int)": "86"
+  },
+  {
+    "title": "Django Unchained",
+    "Directed by": "Quentin Tarantino",
+    "Produced by": [
+      "Stacey Sher",
+      "Reginald Hudlin",
+      "Pilar Savone"
+    ],
+    "Written by": "Quentin Tarantino",
+    "Starring": [
+      "Jamie Foxx",
+      "Christoph Waltz",
+      "Leonardo DiCaprio",
+      "Kerry Washington",
+      "Samuel L. Jackson",
+      "Walton Goggins",
+      "Dennis Christopher",
+      "James Remar",
+      "Michael Parks",
+      "Don Johnson"
+    ],
+    "Cinematography": "Robert Richardson",
+    "Edited by": "Fred Raskin",
+    "Production companies": [
+      "A Band Apart",
+      "Columbia Pictures"
+    ],
+    "Distributed by": [
+      "The Weinstein Company",
+      "Columbia Pictures (through Sony Pictures Releasing )"
+    ],
+    "Release date": [
+      "December 11, 2012 ( Ziegfeld Theatre )",
+      "December 25, 2012 (United States)"
+    ],
+    "Running time": "165 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$100 million",
+    "Box office": "$425.4 million",
+    "Running time (int)": 165,
+    "Budget (float)": 100000000.0,
+    "Box office (float)": 425400000.0,
+    "Release date (datetime)": "2012-12-11T00:00:00",
+    "Profit (float)": 325400000.0,
+    "IMDB Rating": "8.4",
+    "Metascore": "81",
+    "Rotten Tomatoes Score": "87%",
+    "Genres": "Drama, Western",
+    "Maturity Rating": "R",
+    "Awards": "Won 2 Oscars. Another 55 wins & 158 nominations.",
+    "IMDB Rating (float)": 8.4,
+    "Metascore (int)": 81,
+    "Rotten Tomatoes Score (int)": "87"
+  },
+  {
+    "title": "Life of Pi",
+    "Directed by": "Ang Lee",
+    "Produced by": [
+      "Gil Netter",
+      "Ang Lee",
+      "David Womark"
+    ],
+    "Screenplay by": "David Magee",
+    "Based on": [
+      "Life of Pi",
+      "by",
+      "Yann Martel"
+    ],
+    "Starring": [
+      "Suraj Sharma",
+      "Irrfan Khan",
+      "Tabu",
+      "Rafe Spall",
+      "Gérard Depardieu",
+      "Jag Huang"
+    ],
+    "Music by": "Mychael Danna",
+    "Cinematography": "Claudio Miranda",
+    "Edited by": "Tim Squyres",
+    "Production companies": [
+      "Fox 2000 Pictures",
+      "Dune Entertainment",
+      "Ingenious Media",
+      "Haishang Films"
+    ],
+    "Distributed by": "20th Century Fox",
+    "Release date": [
+      "September 28, 2012 ( NYFF )",
+      "November 21, 2012 (United States)"
+    ],
+    "Running time": "127 minutes",
+    "Countries": [
+      "United States",
+      "United Kingdom",
+      "Canada",
+      "Australia",
+      "Taiwan",
+      "India"
+    ],
+    "Languages": [
+      "English",
+      "Hindi",
+      "Japanese"
+    ],
+    "Budget": "$120 million",
+    "Box office": "$609 million",
+    "Running time (int)": 127,
+    "Budget (float)": 120000000.0,
+    "Box office (float)": 609000000.0,
+    "Release date (datetime)": "2012-09-28T00:00:00",
+    "Profit (float)": 489000000.0,
+    "IMDB Rating": "7.9",
+    "Metascore": "79",
+    "Rotten Tomatoes Score": "86%",
+    "Genres": "Adventure, Drama, Fantasy",
+    "Maturity Rating": "PG",
+    "Awards": "Won 4 Oscars. Another 77 wins & 134 nominations.",
+    "IMDB Rating (float)": 7.9,
+    "Metascore (int)": 79,
+    "Rotten Tomatoes Score (int)": "86"
+  },
+  {
+    "title": "Lincoln",
+    "Directed by": "Steven Spielberg",
+    "Produced by": [
+      "Steven Spielberg",
+      "Kathleen Kennedy"
+    ],
+    "Screenplay by": "Tony Kushner",
+    "Based on": [
+      "Team of Rivals",
+      "by",
+      "Doris Kearns Goodwin"
+    ],
+    "Starring": [
+      "Daniel Day-Lewis",
+      "Sally Field",
+      "David Strathairn",
+      "Joseph Gordon-Levitt",
+      "James Spader",
+      "Hal Holbrook",
+      "Tommy Lee Jones"
+    ],
+    "Music by": "John Williams",
+    "Cinematography": "Janusz Kamiński",
+    "Edited by": "Michael Kahn",
+    "Distributed by": [
+      "Walt Disney Studios Motion Pictures (North America)",
+      "20th Century Fox (International)"
+    ],
+    "Release date": [
+      "October 8, 2012 ( New York Film Festival )",
+      "November 9, 2012 (United States)"
+    ],
+    "Running time": "150 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$65 million",
+    "Box office": "$275.3 million",
+    "Running time (int)": 150,
+    "Budget (float)": 65000000.0,
+    "Box office (float)": 275300000.0,
+    "Release date (datetime)": "2012-10-08T00:00:00",
+    "Profit (float)": 210300000.0,
+    "IMDB Rating": "7.3",
+    "Metascore": "86",
+    "Rotten Tomatoes Score": "89%",
+    "Genres": "Biography, Drama, History, War",
+    "Maturity Rating": "PG-13",
+    "Awards": "Won 2 Oscars. Another 106 wins & 252 nominations.",
+    "IMDB Rating (float)": 7.3,
+    "Metascore (int)": 86,
+    "Rotten Tomatoes Score (int)": "89"
+  },
+  {
+    "title": "Les Misérables",
+    "Directed by": "Tom Hooper",
+    "Produced by": [
+      "Tim Bevan",
+      "Eric Fellner",
+      "Debra Hayward",
+      "Cameron Mackintosh"
+    ],
+    "Screenplay by": [
+      "William Nicholson",
+      "Alain Boublil",
+      "Claude-Michel Schönberg",
+      "Herbert Kretzmer"
+    ],
+    "Based on": [
+      "Les Misérables by Alain Boublil Claude-Michel Schönberg",
+      "Alain Boublil",
+      "Claude-Michel Schönberg",
+      "Les Misérables by Victor Hugo"
+    ],
+    "Starring": [
+      "Hugh Jackman",
+      "Russell Crowe",
+      "Anne Hathaway",
+      "Amanda Seyfried",
+      "Eddie Redmayne",
+      "Helena Bonham Carter",
+      "Sacha Baron Cohen"
+    ],
+    "Music by": "Claude-Michel Schönberg",
+    "Cinematography": "Danny Cohen",
+    "Edited by": [
+      "Melanie Oliver",
+      "Chris Dickens"
+    ],
+    "Production companies": [
+      "Working Title Films",
+      "Relativity Media",
+      "Camack International"
+    ],
+    "Distributed by": "Universal Pictures",
+    "Release date": [
+      "5 December 2012 ( Leicester Square )",
+      "25 December 2012 (United States)",
+      "11 January 2013 (United Kingdom)"
+    ],
+    "Running time": "158 minutes",
+    "Countries": [
+      "United Kingdom",
+      "United States"
+    ],
+    "Language": "English",
+    "Budget": "$61 million",
+    "Box office": "$441.8 million",
+    "Running time (int)": 158,
+    "Budget (float)": 61000000.0,
+    "Box office (float)": 441800000.0,
+    "Release date (datetime)": "2012-12-05T00:00:00",
+    "Profit (float)": 380800000.0,
+    "IMDB Rating": "7.6",
+    "Metascore": "63",
+    "Rotten Tomatoes Score": "70%",
+    "Genres": "Drama, History, Musical, Romance, War",
+    "Maturity Rating": "PG-13",
+    "Awards": "Won 3 Oscars. Another 82 wins & 176 nominations.",
+    "IMDB Rating (float)": 7.6,
+    "Metascore (int)": 63,
+    "Rotten Tomatoes Score (int)": "70"
+  },
+  {
+    "title": "Silver Linings Playbook",
+    "Directed by": "David O. Russell",
+    "Produced by": [
+      "Donna Gigliotti",
+      "Bruce Cohen",
+      "Jonathan Gordon"
+    ],
+    "Screenplay by": "David O. Russell",
+    "Based on": [
+      "The Silver Linings Playbook",
+      "by",
+      "Matthew Quick"
+    ],
+    "Starring": [
+      "Bradley Cooper",
+      "Jennifer Lawrence",
+      "Robert De Niro",
+      "Jacki Weaver",
+      "Anupam Kher",
+      "Chris Tucker"
+    ],
+    "Music by": "Danny Elfman",
+    "Cinematography": "Masanobu Takayanagi",
+    "Edited by": [
+      "Jay Cassidy",
+      "Crispin Struthers"
+    ],
+    "Production company": "The Weinstein Company",
+    "Distributed by": "The Weinstein Company",
+    "Release date": [
+      "September 8, 2012 ( TIFF )",
+      "November 16, 2012 (United States)"
+    ],
+    "Running time": "122 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$21 million",
+    "Box office": "$236.4 million",
+    "Running time (int)": 122,
+    "Budget (float)": 21000000.0,
+    "Box office (float)": 236400000.0,
+    "Release date (datetime)": "2012-09-08T00:00:00",
+    "Profit (float)": 215400000.0,
+    "IMDB Rating": "7.7",
+    "Metascore": "81",
+    "Rotten Tomatoes Score": "92%",
+    "Genres": "Comedy, Drama, Romance",
+    "Maturity Rating": "R",
+    "Awards": "Won 1 Oscar. Another 88 wins & 148 nominations.",
+    "IMDB Rating (float)": 7.7,
+    "Metascore (int)": 81,
+    "Rotten Tomatoes Score (int)": "92"
+  },
+  {
+    "title": "Zero Dark Thirty",
+    "Directed by": "Kathryn Bigelow",
+    "Produced by": [
+      "Kathryn Bigelow",
+      "Mark Boal",
+      "Megan Ellison"
+    ],
+    "Written by": "Mark Boal",
+    "Starring": [
+      "Jessica Chastain",
+      "Jason Clarke",
+      "Joel Edgerton"
+    ],
+    "Music by": "Alexandre Desplat",
+    "Cinematography": "Greig Fraser",
+    "Edited by": [
+      "Dylan Tichenor",
+      "William Goldenberg"
+    ],
+    "Production companies": [
+      "Columbia Pictures",
+      "First Light Productions",
+      "Annapurna Pictures"
+    ],
+    "Distributed by": [
+      "Sony Pictures Releasing (North America and Japan)",
+      "Panorama Media (International)"
+    ],
+    "Release date": [
+      "December 10, 2012 ( Los Angeles )",
+      "December 19, 2012 (United States)"
+    ],
+    "Running time": "157 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$40 million",
+    "Box office": "$132.8 million",
+    "Running time (int)": 157,
+    "Budget (float)": 40000000.0,
+    "Box office (float)": 132800000.0,
+    "Release date (datetime)": "2012-12-10T00:00:00",
+    "Profit (float)": 92800000.0,
+    "IMDB Rating": "7.4",
+    "Metascore": "95",
+    "Rotten Tomatoes Score": "91%",
+    "Genres": "Drama, History, Thriller, War",
+    "Maturity Rating": "R",
+    "Awards": "Won 1 Oscar. Another 84 wins & 173 nominations.",
+    "IMDB Rating (float)": 7.4,
+    "Metascore (int)": 95,
+    "Rotten Tomatoes Score (int)": "91"
+  },
+  {
+    "title": "12 Years a Slave",
+    "Directed by": "Steve McQueen",
+    "Produced by": [
+      "Brad Pitt",
+      "Dede Gardner",
+      "Jeremy Kleiner",
+      "Bill Pohlad",
+      "Steve McQueen",
+      "Arnon Milchan",
+      "Anthony Katagas"
+    ],
+    "Screenplay by": "John Ridley",
+    "Based on": [
+      "Twelve Years a Slave",
+      "by",
+      "Solomon Northup"
+    ],
+    "Starring": [
+      "Chiwetel Ejiofor",
+      "Michael Fassbender",
+      "Benedict Cumberbatch",
+      "Paul Dano",
+      "Paul Giamatti",
+      "Lupita Nyong'o",
+      "Sarah Paulson",
+      "Brad Pitt",
+      "Alfre Woodard"
+    ],
+    "Music by": "Hans Zimmer",
+    "Cinematography": "Sean Bobbitt",
+    "Edited by": "Joe Walker",
+    "Production companies": [
+      "Fox Searchlight Pictures",
+      "Summit Entertainment",
+      "Regency Enterprises",
+      "River Road Entertainment",
+      "Plan B Entertainment",
+      "New Regency Productions",
+      "Film4 Productions"
+    ],
+    "Distributed by": [
+      "20th Century Fox",
+      "Entertainment One Films",
+      "Lionsgate Films"
+    ],
+    "Release date": [
+      "August 30, 2013 ( Telluride Film Festival )",
+      "November 8, 2013 (United States)",
+      "January 10, 2014 (United Kingdom)"
+    ],
+    "Running time": "134 minutes",
+    "Countries": [
+      "United States",
+      "United Kingdom"
+    ],
+    "Language": "English",
+    "Budget": "$20–22 million",
+    "Box office": "$187.7 million",
+    "Running time (int)": 134,
+    "Budget (float)": 20000000.0,
+    "Box office (float)": 187700000.0,
+    "Release date (datetime)": "2013-08-30T00:00:00",
+    "Profit (float)": 167700000.0,
+    "IMDB Rating": "8.1",
+    "Metascore": "96",
+    "Rotten Tomatoes Score": "95%",
+    "Genres": "Biography, Drama, History",
+    "Maturity Rating": "R",
+    "Awards": "Won 3 Oscars. Another 240 wins & 335 nominations.",
+    "IMDB Rating (float)": 8.1,
+    "Metascore (int)": 96,
+    "Rotten Tomatoes Score (int)": "95"
+  },
+  {
+    "title": "American Hustle",
+    "Directed by": "David O. Russell",
+    "Produced by": [
+      "Charles Roven",
+      "Richard Suckle",
+      "Megan Ellison",
+      "Jonathan Gordon"
+    ],
+    "Written by": [
+      "Eric Warren Singer",
+      "David O. Russell"
+    ],
+    "Starring": [
+      "Christian Bale",
+      "Bradley Cooper",
+      "Amy Adams",
+      "Jeremy Renner",
+      "Jennifer Lawrence",
+      "Louis C. K.",
+      "Michael Peña",
+      "Alessandro Nivola"
+    ],
+    "Music by": "Danny Elfman",
+    "Cinematography": "Linus Sandgren",
+    "Edited by": [
+      "Jay Cassidy",
+      "Crispin Struthers",
+      "Alan Baumgarten"
+    ],
+    "Production companies": [
+      "Columbia Pictures",
+      "Atlas Entertainment",
+      "Annapurna Pictures"
+    ],
+    "Distributed by": "Sony Pictures Releasing",
+    "Release date": [
+      "December 8, 2013 ( Ziegfeld Theatre )",
+      "December 13, 2013 (United States)"
+    ],
+    "Running time": "138 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$40 million",
+    "Box office": "$251.2 million",
+    "Running time (int)": 138,
+    "Budget (float)": 40000000.0,
+    "Box office (float)": 251200000.0,
+    "Release date (datetime)": "2013-12-08T00:00:00",
+    "Profit (float)": 211200000.0,
+    "IMDB Rating": "7.2",
+    "Metascore": "90",
+    "Rotten Tomatoes Score": "92%",
+    "Genres": "Crime, Drama",
+    "Maturity Rating": "R",
+    "Awards": "Nominated for 10 Oscars. Another 69 wins & 217 nominations.",
+    "IMDB Rating (float)": 7.2,
+    "Metascore (int)": 90,
+    "Rotten Tomatoes Score (int)": "92"
+  },
+  {
+    "title": "Captain Phillips",
+    "Directed by": "Paul Greengrass",
+    "Produced by": [
+      "Scott Rudin",
+      "Dana Brunetti",
+      "Michael De Luca"
+    ],
+    "Screenplay by": "Billy Ray",
+    "Based on": [
+      "A Captain's Duty",
+      "by",
+      "Richard Phillips",
+      "Stephan Talty"
+    ],
+    "Starring": [
+      "Tom Hanks",
+      "Barkhad Abdi"
+    ],
+    "Music by": "Henry Jackman",
+    "Cinematography": "Barry Ackroyd",
+    "Edited by": "Christopher Rouse",
+    "Production companies": [
+      "Columbia Pictures",
+      "Scott Rudin Productions",
+      "Michael De Luca Productions",
+      "Trigger Street Productions"
+    ],
+    "Distributed by": "Sony Pictures Releasing",
+    "Release date": [
+      "September 27, 2013 ( NYFF )",
+      "October 11, 2013 (United States)"
+    ],
+    "Running time": "134 minutes",
+    "Country": "United States",
+    "Languages": [
+      "English",
+      "Somali"
+    ],
+    "Budget": "$55 million",
+    "Box office": "$220.6 million",
+    "Running time (int)": 134,
+    "Budget (float)": 55000000.0,
+    "Box office (float)": 220600000.0,
+    "Release date (datetime)": "2013-09-27T00:00:00",
+    "Profit (float)": 165600000.0,
+    "IMDB Rating": "7.8",
+    "Metascore": "82",
+    "Rotten Tomatoes Score": "93%",
+    "Genres": "Adventure, Biography, Crime, Drama, Thriller",
+    "Maturity Rating": "PG-13",
+    "Awards": "Nominated for 6 Oscars. Another 16 wins & 147 nominations.",
+    "IMDB Rating (float)": 7.8,
+    "Metascore (int)": 82,
+    "Rotten Tomatoes Score (int)": "93"
+  },
+  {
+    "title": "Dallas Buyers Club",
+    "Directed by": "Jean-Marc Vallée",
+    "Produced by": [
+      "Robbie Brenner",
+      "Rachel Winter"
+    ],
+    "Written by": [
+      "Craig Borten",
+      "Melisa Wallack"
+    ],
+    "Starring": [
+      "Matthew McConaughey",
+      "Jennifer Garner",
+      "Jared Leto"
+    ],
+    "Cinematography": "Yves Bélanger",
+    "Edited by": [
+      "John Mac McMurphy",
+      "Martin Pensa"
+    ],
+    "Production companies": [
+      "Truth Entertainment",
+      "Voltage Pictures"
+    ],
+    "Distributed by": "Focus Features",
+    "Release date": [
+      "September 7, 2013 ( TIFF )",
+      "November 1, 2013 (United States)"
+    ],
+    "Running time": "117 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$5 million",
+    "Box office": "$55.7 million",
+    "Running time (int)": 117,
+    "Budget (float)": 5000000.0,
+    "Box office (float)": 55700000.0,
+    "Release date (datetime)": "2013-09-07T00:00:00",
+    "Profit (float)": 50700000.0,
+    "IMDB Rating": "8.0",
+    "Metascore": "80",
+    "Rotten Tomatoes Score": "93%",
+    "Genres": "Biography, Drama",
+    "Maturity Rating": "R",
+    "Awards": "Won 3 Oscars. Another 81 wins & 86 nominations.",
+    "IMDB Rating (float)": 8.0,
+    "Metascore (int)": 80,
+    "Rotten Tomatoes Score (int)": "93"
+  },
+  {
+    "title": "Gravity",
+    "Directed by": "Alfonso Cuarón",
+    "Produced by": [
+      "Alfonso Cuarón",
+      "David Heyman"
+    ],
+    "Written by": [
+      "Alfonso Cuarón",
+      "Jonás Cuarón"
+    ],
+    "Starring": [
+      "Sandra Bullock",
+      "George Clooney"
+    ],
+    "Music by": "Steven Price",
+    "Cinematography": "Emmanuel Lubezki",
+    "Edited by": [
+      "Alfonso Cuarón",
+      "Mark Sanger"
+    ],
+    "Production companies": [
+      "Heyday Films",
+      "Esperanto Filmoj"
+    ],
+    "Distributed by": "Warner Bros. Pictures",
+    "Release date": [
+      "August 28, 2013 ( Venice )",
+      "October 4, 2013 (United States)",
+      "November 7, 2013 (United Kingdom)"
+    ],
+    "Running time": "91 minutes",
+    "Countries": [
+      "United States",
+      "United Kingdom"
+    ],
+    "Language": "English",
+    "Budget": "$80–130 million",
+    "Box office": "$723.2 million",
+    "Running time (int)": 91,
+    "Budget (float)": 80000000.0,
+    "Box office (float)": 723200000.0,
+    "Release date (datetime)": "2013-08-28T00:00:00",
+    "Profit (float)": 643200000.0,
+    "IMDB Rating": "7.7",
+    "Metascore": "96",
+    "Rotten Tomatoes Score": "95%",
+    "Genres": "Drama, Sci-Fi, Thriller",
+    "Maturity Rating": "PG-13",
+    "Awards": "Won 7 Oscars. Another 230 wins & 186 nominations.",
+    "IMDB Rating (float)": 7.7,
+    "Metascore (int)": 96,
+    "Rotten Tomatoes Score (int)": "95"
+  },
+  {
+    "title": "Her",
+    "Directed by": "Spike Jonze",
+    "Produced by": [
+      "Megan Ellison",
+      "Spike Jonze",
+      "Vincent Landay"
+    ],
+    "Written by": "Spike Jonze",
+    "Starring": [
+      "Joaquin Phoenix",
+      "Amy Adams",
+      "Rooney Mara",
+      "Olivia Wilde",
+      "Scarlett Johansson"
+    ],
+    "Music by": "Arcade Fire",
+    "Cinematography": "Hoyte van Hoytema",
+    "Edited by": [
+      "Eric Zumbrunnen",
+      "Jeff Buchanan"
+    ],
+    "Production company": "Annapurna Pictures",
+    "Distributed by": [
+      "Warner Bros. Pictures",
+      "(United States and Germany)",
+      "Sony Pictures Releasing International",
+      "Stage 6 Films",
+      "(International)"
+    ],
+    "Release date": [
+      "October 12, 2013 ( NYFF )",
+      "October 13, 2013 ( HIFF )",
+      "November 11, 2013 ( RFF )",
+      "December 18, 2013 (Limited)",
+      "January 10, 2014 (United States)"
+    ],
+    "Running time": "126 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$23 million",
+    "Box office": "$48.3 million",
+    "Running time (int)": 126,
+    "Budget (float)": 23000000.0,
+    "Box office (float)": 48300000.0,
+    "Release date (datetime)": "2013-10-12T00:00:00",
+    "Profit (float)": 25300000.0,
+    "IMDB Rating": "8.0",
+    "Metascore": "90",
+    "Rotten Tomatoes Score": "94%",
+    "Genres": "Drama, Romance, Sci-Fi",
+    "Maturity Rating": "R",
+    "Awards": "Won 1 Oscar. Another 82 wins & 186 nominations.",
+    "IMDB Rating (float)": 8.0,
+    "Metascore (int)": 90,
+    "Rotten Tomatoes Score (int)": "94"
+  },
+  {
+    "title": "Nebraska",
+    "Directed by": "Alexander Payne",
+    "Produced by": [
+      "Albert Berger",
+      "Ron Yerxa"
+    ],
+    "Written by": "Bob Nelson",
+    "Starring": [
+      "Bruce Dern",
+      "Will Forte",
+      "June Squibb",
+      "Stacy Keach",
+      "Bob Odenkirk"
+    ],
+    "Music by": "Mark Orton",
+    "Cinematography": "Phedon Papamichael",
+    "Edited by": "Kevin Tent",
+    "Production companies": [
+      "Blue Lake Media Fund",
+      "Bona Fide Productions",
+      "Echo Lake Entertainment",
+      "FilmNation Entertainment"
+    ],
+    "Distributed by": "Paramount Vantage",
+    "Release date": [
+      "May 23, 2013 ( Cannes )",
+      "November 15, 2013 (United States)"
+    ],
+    "Running time": "115 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$13.5 million",
+    "Box office": "$27.7 million",
+    "Running time (int)": 115,
+    "Budget (float)": 13500000.0,
+    "Box office (float)": 27700000.0,
+    "Release date (datetime)": "2013-05-23T00:00:00",
+    "Profit (float)": 14200000.0,
+    "IMDB Rating": "7.7",
+    "Metascore": "87",
+    "Rotten Tomatoes Score": "91%",
+    "Genres": "Adventure, Comedy, Drama",
+    "Maturity Rating": "R",
+    "Awards": "Nominated for 6 Oscars. Another 28 wins & 162 nominations.",
+    "IMDB Rating (float)": 7.7,
+    "Metascore (int)": 87,
+    "Rotten Tomatoes Score (int)": "91"
+  },
+  {
+    "title": "Philomena",
+    "Directed by": "Stephen Frears",
+    "Produced by": [
+      "Gabrielle Tana",
+      "Steve Coogan",
+      "Tracey Seaward"
+    ],
+    "Screenplay by": [
+      "Steve Coogan",
+      "Jeff Pope"
+    ],
+    "Based on": [
+      "The Lost Child of Philomena Lee",
+      "by",
+      "Martin Sixsmith"
+    ],
+    "Starring": [
+      "Judi Dench",
+      "Steve Coogan"
+    ],
+    "Music by": "Alexandre Desplat",
+    "Cinematography": "Robbie Ryan",
+    "Edited by": "Valerio Bonelli",
+    "Production companies": [
+      "Pathé",
+      "Yucaipa Films",
+      "BBC Films",
+      "British Film Institute",
+      "Canal+",
+      "Cine+",
+      "Baby Cow Productions",
+      "Magnolia Mae Films"
+    ],
+    "Distributed by": [
+      "Pathé Distribution (France)",
+      "20th Century Fox (United Kingdom)"
+    ],
+    "Release date": [
+      "31 August 2013 ( Venice )",
+      "1 November 2013 (United Kingdom)"
+    ],
+    "Running time": "98 minutes",
+    "Countries": [
+      "United Kingdom",
+      "France"
+    ],
+    "Language": "English",
+    "Budget": "$12 million",
+    "Box office": "$100.1 million",
+    "Running time (int)": 98,
+    "Budget (float)": 12000000.0,
+    "Box office (float)": 100100000.0,
+    "Release date (datetime)": "2013-08-31T00:00:00",
+    "Profit (float)": 88100000.0,
+    "IMDB Rating": "7.6",
+    "Metascore": "77",
+    "Rotten Tomatoes Score": "91%",
+    "Genres": "Biography, Comedy, Drama",
+    "Maturity Rating": "PG-13",
+    "Awards": "Nominated for 4 Oscars. Another 33 wins & 81 nominations.",
+    "IMDB Rating (float)": 7.6,
+    "Metascore (int)": 77,
+    "Rotten Tomatoes Score (int)": "91"
+  },
+  {
+    "title": "The Wolf of Wall Street",
+    "Directed by": "Martin Scorsese",
+    "Produced by": [
+      "Martin Scorsese",
+      "Leonardo DiCaprio",
+      "Riza Aziz",
+      "Joey McFarland",
+      "Emma Tillinger Koskoff"
+    ],
+    "Screenplay by": "Terence Winter",
+    "Based on": [
+      "The Wolf of Wall Street",
+      "by",
+      "Jordan Belfort"
+    ],
+    "Starring": [
+      "Leonardo DiCaprio",
+      "Jonah Hill",
+      "Margot Robbie",
+      "Matthew McConaughey",
+      "Kyle Chandler",
+      "Rob Reiner",
+      "Jon Favreau",
+      "Jean Dujardin",
+      "Jon Bernthal"
+    ],
+    "Cinematography": "Rodrigo Prieto",
+    "Edited by": "Thelma Schoonmaker",
+    "Production companies": [
+      "Red Granite Pictures",
+      "Appian Way Productions",
+      "Sikelia Productions",
+      "EMJAG Productions"
+    ],
+    "Distributed by": "Paramount Pictures",
+    "Release date": [
+      "December 17, 2013 ( Ziegfeld Theatre )",
+      "December 25, 2013 (United States)"
+    ],
+    "Running time": "180 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$100 million",
+    "Box office": "$392 million",
+    "Running time (int)": 180,
+    "Budget (float)": 100000000.0,
+    "Box office (float)": 392000000.0,
+    "Release date (datetime)": "2013-12-17T00:00:00",
+    "Profit (float)": 292000000.0,
+    "IMDB Rating": "8.2",
+    "Metascore": "75",
+    "Rotten Tomatoes Score": "79%",
+    "Genres": "Biography, Crime, Drama",
+    "Maturity Rating": "R",
+    "Awards": "Nominated for 5 Oscars. Another 37 wins & 174 nominations.",
+    "IMDB Rating (float)": 8.2,
+    "Metascore (int)": 75,
+    "Rotten Tomatoes Score (int)": "79"
+  },
+  {
+    "title": "Birdman or (The Unexpected Virtue of Ignorance)",
+    "Directed by": "Alejandro G. Iñárritu",
+    "Produced by": [
+      "Alejandro G. Iñárritu ( p.g.a. )",
+      "John Lesher (p.g.a.)",
+      "Arnon Milchan",
+      "James W. Skotchdopole (p.g.a.)"
+    ],
+    "Written by": [
+      "Alejandro G. Iñárritu",
+      "Nicolás Giacobone",
+      "Alexander Dinelaris, Jr.",
+      "Armando Bó"
+    ],
+    "Starring": [
+      "Michael Keaton",
+      "Zach Galifianakis",
+      "Edward Norton",
+      "Andrea Riseborough",
+      "Amy Ryan",
+      "Emma Stone",
+      "Naomi Watts"
+    ],
+    "Music by": "Antonio Sánchez",
+    "Cinematography": "Emmanuel Lubezki",
+    "Edited by": [
+      "Douglas Crise",
+      "Stephen Mirrione"
+    ],
+    "Production companies": [
+      "Regency Enterprises",
+      "New Regency",
+      "M Productions",
+      "Le Grisbi Productions",
+      "TSG Entertainment",
+      "Worldview Entertainment"
+    ],
+    "Distributed by": "Fox Searchlight Pictures",
+    "Release date": [
+      "August 27, 2014 ( Venice )",
+      "October 17, 2014 (United States)"
+    ],
+    "Running time": "119 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$18 million",
+    "Box office": "$103.2 million",
+    "Running time (int)": 119,
+    "Budget (float)": 18000000.0,
+    "Box office (float)": 103200000.0,
+    "Release date (datetime)": "2014-08-27T00:00:00",
+    "Profit (float)": 85200000.0,
+    "IMDB Rating": "7.7",
+    "Metascore": "87",
+    "Rotten Tomatoes Score": "91%",
+    "Genres": "Comedy, Drama",
+    "Maturity Rating": "R",
+    "Awards": "Won 4 Oscars. Another 188 wins & 291 nominations.",
+    "IMDB Rating (float)": 7.7,
+    "Metascore (int)": 87,
+    "Rotten Tomatoes Score (int)": "91"
+  },
+  {
+    "title": "American Sniper",
+    "Directed by": "Clint Eastwood",
+    "Produced by": [
+      "Clint Eastwood",
+      "Robert Lorenz",
+      "Andrew Lazar",
+      "Bradley Cooper",
+      "Peter Morgan"
+    ],
+    "Screenplay by": "Jason Hall",
+    "Based on": [
+      "American Sniper",
+      "by",
+      "Chris Kyle",
+      "Scott McEwen",
+      "Jim DeFelice"
+    ],
+    "Starring": [
+      "Bradley Cooper",
+      "Sienna Miller"
+    ],
+    "Cinematography": "Tom Stern",
+    "Edited by": [
+      "Joel Cox",
+      "Gary D. Roach"
+    ],
+    "Production companies": [
+      "Village Roadshow Pictures",
+      "RatPac-Dune Entertainment",
+      "Mad Chance Productions",
+      "22nd & Indiana Pictures",
+      "Malpaso Productions"
+    ],
+    "Distributed by": "Warner Bros. Pictures",
+    "Release date": [
+      "November 11, 2014 ( AFI Fest )",
+      "December 25, 2014 (United States)"
+    ],
+    "Running time": "132 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$59 million",
+    "Box office": "$547.4 million",
+    "Running time (int)": 132,
+    "Budget (float)": 59000000.0,
+    "Box office (float)": 547400000.0,
+    "Release date (datetime)": "2014-11-11T00:00:00",
+    "Profit (float)": 488400000.0,
+    "IMDB Rating": "7.3",
+    "Metascore": "72",
+    "Rotten Tomatoes Score": "72%",
+    "Genres": "Action, Biography, Drama, War",
+    "Maturity Rating": "R",
+    "Awards": "Won 1 Oscar. Another 23 wins & 43 nominations.",
+    "IMDB Rating (float)": 7.3,
+    "Metascore (int)": 72,
+    "Rotten Tomatoes Score (int)": "72"
+  },
+  {
+    "title": "Boyhood",
+    "Directed by": "Richard Linklater",
+    "Produced by": [
+      "Richard Linklater",
+      "Cathleen Sutherland",
+      "Jonathan Sehring",
+      "John Sloss"
+    ],
+    "Written by": "Richard Linklater",
+    "Starring": [
+      "Patricia Arquette",
+      "Ellar Coltrane",
+      "Lorelei Linklater",
+      "Ethan Hawke"
+    ],
+    "Cinematography": [
+      "Lee Daniel",
+      "Shane Kelly"
+    ],
+    "Edited by": "Sandra Adair",
+    "Production companies": [
+      "IFC Productions",
+      "Detour Filmproduction",
+      "Cinetic Media"
+    ],
+    "Distributed by": [
+      "IFC Films (US)",
+      "Universal Pictures (International)"
+    ],
+    "Release date": [
+      "January 19, 2014 ( Sundance )",
+      "July 11, 2014 (United States)"
+    ],
+    "Running time": "165 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$4 million",
+    "Box office": "$57.3 million",
+    "Running time (int)": 165,
+    "Budget (float)": 4000000.0,
+    "Box office (float)": 57300000.0,
+    "Release date (datetime)": "2014-01-19T00:00:00",
+    "Profit (float)": 53300000.0,
+    "IMDB Rating": "7.9",
+    "Metascore": "100",
+    "Rotten Tomatoes Score": "97%",
+    "Genres": "Drama",
+    "Maturity Rating": "R",
+    "Awards": "Won 1 Oscar. Another 172 wins & 218 nominations.",
+    "IMDB Rating (float)": 7.9,
+    "Metascore (int)": 100,
+    "Rotten Tomatoes Score (int)": "97"
+  },
+  {
+    "title": "The Grand Budapest Hotel",
+    "Directed by": "Wes Anderson",
+    "Produced by": [
+      "Wes Anderson",
+      "Scott Rudin",
+      "Steven Rales",
+      "Jeremy Dawson"
+    ],
+    "Screenplay by": "Wes Anderson",
+    "Story by": [
+      "Wes Anderson",
+      "Hugo Guinness"
+    ],
+    "Starring": [
+      "Ralph Fiennes",
+      "F. Murray Abraham",
+      "Mathieu Amalric",
+      "Adrien Brody",
+      "Willem Dafoe",
+      "Jeff Goldblum",
+      "Harvey Keitel",
+      "Jude Law",
+      "Bill Murray",
+      "Edward Norton",
+      "Saoirse Ronan",
+      "Jason Schwartzman",
+      "Léa Seydoux",
+      "Tilda Swinton",
+      "Tom Wilkinson",
+      "Owen Wilson",
+      "Tony Revolori"
+    ],
+    "Music by": "Alexandre Desplat",
+    "Cinematography": "Robert Yeoman",
+    "Edited by": "Barney Pilling",
+    "Production companies": [
+      "Fox Searchlight Pictures",
+      "TSG Entertainment",
+      "Indian Paintbrush",
+      "Studio Babelsberg",
+      "American Empirical Pictures"
+    ],
+    "Distributed by": "Fox Searchlight Pictures",
+    "Release date": [
+      "February 6, 2014 ( Berlin )",
+      "March 6, 2014 (Germany)",
+      "March 7, 2014 (United States)"
+    ],
+    "Running time": "100 minutes",
+    "Countries": [
+      "United States",
+      "Germany"
+    ],
+    "Language": "English",
+    "Budget": "US$25 million",
+    "Box office": "US$172.9 million",
+    "Running time (int)": 100,
+    "Budget (float)": 25000000.0,
+    "Box office (float)": 172900000.0,
+    "Release date (datetime)": "2014-02-06T00:00:00",
+    "Profit (float)": 147900000.0,
+    "IMDB Rating": "8.1",
+    "Metascore": "88",
+    "Rotten Tomatoes Score": "92%",
+    "Genres": "Adventure, Comedy, Crime",
+    "Maturity Rating": "R",
+    "Awards": "Won 4 Oscars. Another 130 wins & 226 nominations.",
+    "IMDB Rating (float)": 8.1,
+    "Metascore (int)": 88,
+    "Rotten Tomatoes Score (int)": "92"
+  },
+  {
+    "title": "The Imitation Game",
+    "Directed by": "Morten Tyldum",
+    "Produced by": [
+      "Nora Grossman",
+      "Ido Ostrowsky",
+      "Teddy Schwarzman"
+    ],
+    "Screenplay by": "Graham Moore",
+    "Based on": [
+      "Alan Turing: The Enigma",
+      "by",
+      "Andrew Hodges"
+    ],
+    "Starring": [
+      "Benedict Cumberbatch",
+      "Keira Knightley",
+      "Matthew Goode",
+      "Rory Kinnear",
+      "Charles Dance",
+      "Mark Strong"
+    ],
+    "Music by": "Alexandre Desplat",
+    "Cinematography": "Óscar Faura",
+    "Edited by": "William Goldenberg",
+    "Production companies": [
+      "Black Bear Pictures",
+      "Bristol Automotive",
+      "Orange Corp"
+    ],
+    "Distributed by": [
+      "The Weinstein Company"
+    ],
+    "Release date": [
+      "August 29, 2014 ( Telluride Film Festival )",
+      "November 28, 2014 (United States)"
+    ],
+    "Running time": "114 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$14 million",
+    "Box office": "$233.6 million",
+    "Running time (int)": 114,
+    "Budget (float)": 14000000.0,
+    "Box office (float)": 233600000.0,
+    "Release date (datetime)": "2014-08-29T00:00:00",
+    "Profit (float)": 219600000.0,
+    "IMDB Rating": "8.0",
+    "Metascore": "73",
+    "Rotten Tomatoes Score": "89%",
+    "Genres": "Biography, Drama, Thriller, War",
+    "Maturity Rating": "PG-13",
+    "Awards": "Won 1 Oscar. Another 48 wins & 162 nominations.",
+    "IMDB Rating (float)": 8.0,
+    "Metascore (int)": 73,
+    "Rotten Tomatoes Score (int)": "89"
+  },
+  {
+    "title": "Selma",
+    "Directed by": "Ava DuVernay",
+    "Produced by": [
+      "Christian Colson",
+      "Oprah Winfrey",
+      "Dede Gardner",
+      "Jeremy Kleiner"
+    ],
+    "Written by": [
+      "Paul Webb"
+    ],
+    "Starring": [
+      "David Oyelowo",
+      "Tom Wilkinson",
+      "Carmen Ejogo",
+      "Giovanni Ribisi",
+      "Alessandro Nivola",
+      "Cuba Gooding Jr.",
+      "Tim Roth",
+      "Oprah Winfrey"
+    ],
+    "Music by": "Jason Moran",
+    "Cinematography": "Bradford Young",
+    "Edited by": "Spencer Averick",
+    "Production companies": [
+      "Pathé",
+      "Harpo Films",
+      "Plan B Entertainment",
+      "Cloud Eight Films",
+      "Ingenious Media",
+      "Redgill Selma Productions"
+    ],
+    "Distributed by": [
+      "Paramount Pictures (United States)",
+      "20th Century Fox (United Kingdom)"
+    ],
+    "Release date": [
+      "November 11, 2014 ( AFI Fest )",
+      "December 25, 2014 (United States)"
+    ],
+    "Running time": "128 minutes",
+    "Countries": [
+      "United Kingdom",
+      "United States"
+    ],
+    "Language": "English",
+    "Budget": "$20 million",
+    "Box office": "$66.8 million",
+    "Running time (int)": 128,
+    "Budget (float)": 20000000.0,
+    "Box office (float)": 66800000.0,
+    "Release date (datetime)": "2014-11-11T00:00:00",
+    "Profit (float)": 46800000.0,
+    "IMDB Rating": "7.5",
+    "Metascore": "80",
+    "Rotten Tomatoes Score": "99%",
+    "Genres": "Biography, Drama, History",
+    "Maturity Rating": "PG-13",
+    "Awards": "Won 1 Oscar. Another 57 wins & 91 nominations.",
+    "IMDB Rating (float)": 7.5,
+    "Metascore (int)": 80,
+    "Rotten Tomatoes Score (int)": "99"
+  },
+  {
+    "title": "The Theory of Everything",
+    "Directed by": "James Marsh",
+    "Produced by": [
+      "Tim Bevan",
+      "Eric Fellner",
+      "Lisa Bruce",
+      "Anthony McCarten"
+    ],
+    "Screenplay by": "Anthony McCarten",
+    "Based on": [
+      "Travelling to Infinity: My Life with Stephen",
+      "by",
+      "Jane Hawking"
+    ],
+    "Starring": [
+      "Eddie Redmayne",
+      "Felicity Jones",
+      "Charlie Cox",
+      "Emily Watson",
+      "Simon McBurney",
+      "David Thewlis",
+      "Maxine Peake"
+    ],
+    "Music by": "Jóhann Jóhannsson",
+    "Cinematography": "Benoît Delhomme",
+    "Edited by": "Jinx Godfrey",
+    "Production companies": [
+      "Working Title Films",
+      "Dentsu",
+      "Fuji Television Network"
+    ],
+    "Distributed by": [
+      "Focus Features",
+      "(United States)",
+      "Universal Pictures",
+      "(International)"
+    ],
+    "Release date": [
+      "7 November 2014 ( TIFF )",
+      "1 January 2015 (United Kingdom)"
+    ],
+    "Running time": "123 minutes",
+    "Countries": [
+      "United Kingdom",
+      "Japan",
+      "United States"
+    ],
+    "Language": "English",
+    "Budget": "US$15 million",
+    "Box office": "US$123.7 million",
+    "Running time (int)": 123,
+    "Budget (float)": 15000000.0,
+    "Box office (float)": 123700000.0,
+    "Release date (datetime)": "2014-11-07T00:00:00",
+    "Profit (float)": 108700000.0,
+    "IMDB Rating": "7.7",
+    "Metascore": "72",
+    "Rotten Tomatoes Score": "80%",
+    "Genres": "Biography, Drama, Romance",
+    "Maturity Rating": "PG-13",
+    "Awards": "Won 1 Oscar. Another 24 wins & 124 nominations.",
+    "IMDB Rating (float)": 7.7,
+    "Metascore (int)": 72,
+    "Rotten Tomatoes Score (int)": "80"
+  },
+  {
+    "title": "Whiplash",
+    "Directed by": "Damien Chazelle",
+    "Produced by": [
+      "Jason Blum",
+      "Helen Estabrook",
+      "Michel Litvak",
+      "David Lancaster"
+    ],
+    "Written by": "Damien Chazelle",
+    "Based on": [
+      "Whiplash",
+      "by Damien Chazelle"
+    ],
+    "Starring": [
+      "Miles Teller",
+      "J. K. Simmons",
+      "Paul Reiser"
+    ],
+    "Music by": "Justin Hurwitz",
+    "Cinematography": "Sharone Meir",
+    "Edited by": "Tom Cross",
+    "Production companies": [
+      "Bold Films",
+      "Blumhouse Productions",
+      "Right of Way Films"
+    ],
+    "Distributed by": [
+      "Sony Pictures Classics (North America)",
+      "Stage 6 Films (International)"
+    ],
+    "Release date": [
+      "January 16, 2014 ( Sundance )",
+      "October 10, 2014 (United States)"
+    ],
+    "Running time": "107 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$3.3 million",
+    "Box office": "$49 million",
+    "Running time (int)": 107,
+    "Budget (float)": 3300000.0,
+    "Box office (float)": 49000000.0,
+    "Release date (datetime)": "2014-01-16T00:00:00",
+    "Profit (float)": 45700000.0,
+    "IMDB Rating": "8.5",
+    "Metascore": "88",
+    "Rotten Tomatoes Score": "94%",
+    "Genres": "Drama, Music",
+    "Maturity Rating": "R",
+    "Awards": "Won 3 Oscars. Another 91 wins & 144 nominations.",
+    "IMDB Rating (float)": 8.5,
+    "Metascore (int)": 88,
+    "Rotten Tomatoes Score (int)": "94"
+  },
+  {
+    "title": "Spotlight",
+    "Directed by": "Tom McCarthy",
+    "Produced by": [
+      "Blye Pagon Faust",
+      "Steve Golin",
+      "Nicole Rocklin",
+      "Michael Sugar"
+    ],
+    "Written by": [
+      "Tom McCarthy",
+      "Josh Singer"
+    ],
+    "Starring": [
+      "Mark Ruffalo",
+      "Michael Keaton",
+      "Rachel McAdams",
+      "Liev Schreiber",
+      "John Slattery",
+      "Stanley Tucci"
+    ],
+    "Music by": "Howard Shore",
+    "Cinematography": "Masanobu Takayanagi",
+    "Edited by": "Tom McArdle",
+    "Production companies": [
+      "Participant Media",
+      "First Look Media",
+      "Anonymous Content",
+      "Rocklin/Faust Productions",
+      "Spotlight Film"
+    ],
+    "Distributed by": [
+      "Open Road Films (United States)",
+      "Sony Pictures Releasing International",
+      "Stage 6 Films (International)"
+    ],
+    "Release date": [
+      "September 3, 2015 ( Venice )",
+      "November 6, 2015 (United States)"
+    ],
+    "Running time": "129 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$20 million",
+    "Box office": "$98.3 million",
+    "Running time (int)": 129,
+    "Budget (float)": 20000000.0,
+    "Box office (float)": 98300000.0,
+    "Release date (datetime)": "2015-09-03T00:00:00",
+    "Profit (float)": 78300000.0,
+    "IMDB Rating": "8.1",
+    "Metascore": "93",
+    "Rotten Tomatoes Score": "97%",
+    "Genres": "Biography, Crime, Drama",
+    "Maturity Rating": "R",
+    "Awards": "Won 2 Oscars. Another 122 wins & 143 nominations.",
+    "IMDB Rating (float)": 8.1,
+    "Metascore (int)": 93,
+    "Rotten Tomatoes Score (int)": "97"
+  },
+  {
+    "title": "The Big Short",
+    "Directed by": "Adam McKay",
+    "Produced by": [
+      "Brad Pitt",
+      "Dede Gardner",
+      "Jeremy Kleiner",
+      "Arnon Milchan"
+    ],
+    "Screenplay by": [
+      "Charles Randolph",
+      "Adam McKay"
+    ],
+    "Based on": [
+      "The Big Short",
+      "by",
+      "Michael Lewis"
+    ],
+    "Starring": [
+      "Christian Bale",
+      "Steve Carell",
+      "Ryan Gosling",
+      "Brad Pitt"
+    ],
+    "Music by": "Nicholas Britell",
+    "Cinematography": "Barry Ackroyd",
+    "Edited by": "Hank Corwin",
+    "Production companies": [
+      "Regency Enterprises",
+      "Plan B Entertainment"
+    ],
+    "Distributed by": "Paramount Pictures",
+    "Release date": [
+      "November 12, 2015 ( AFI Fest )",
+      "December 11, 2015 (United States)"
+    ],
+    "Running time": "130 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$50 million",
+    "Box office": "$133.4 million",
+    "Running time (int)": 130,
+    "Budget (float)": 50000000.0,
+    "Box office (float)": 133400000.0,
+    "Release date (datetime)": "2015-11-12T00:00:00",
+    "Profit (float)": 83400000.0,
+    "IMDB Rating": "7.8",
+    "Metascore": "81",
+    "Rotten Tomatoes Score": "88%",
+    "Genres": "Biography, Comedy, Drama, History",
+    "Maturity Rating": "R",
+    "Awards": "Won 1 Oscar. Another 36 wins & 81 nominations.",
+    "IMDB Rating (float)": 7.8,
+    "Metascore (int)": 81,
+    "Rotten Tomatoes Score (int)": "88"
+  },
+  {
+    "title": "Bridge of Spies",
+    "Directed by": "Steven Spielberg",
+    "Produced by": [
+      "Steven Spielberg",
+      "Marc Platt",
+      "Kristie Macosko Krieger"
+    ],
+    "Written by": [
+      "Matt Charman",
+      "Ethan Coen Joel Coen"
+    ],
+    "Starring": [
+      "Tom Hanks",
+      "Mark Rylance",
+      "Amy Ryan",
+      "Alan Alda"
+    ],
+    "Music by": "Thomas Newman",
+    "Cinematography": "Janusz Kamiński",
+    "Edited by": "Michael Kahn",
+    "Production companies": [
+      "DreamWorks Pictures",
+      "Reliance Entertainment",
+      "Afterworks Limited",
+      "Studio Babelsberg",
+      "Amblin Entertainment",
+      "Marc Platt Productions",
+      "Participant Media",
+      "Fox 2000 Pictures"
+    ],
+    "Distributed by": [
+      "Walt Disney Studios Motion Pictures (North America) 20th Century Fox (International)"
+    ],
+    "Release date": [
+      "October 4, 2015 ( New York Film Festival )",
+      "October 16, 2015 (United States)",
+      "November 26, 2015 (Germany)"
+    ],
+    "Running time": "141 minutes",
+    "Countries": [
+      "United States",
+      "Germany"
+    ],
+    "Languages": [
+      "English",
+      "German"
+    ],
+    "Budget": "$40 million",
+    "Box office": "$165.5 million",
+    "Running time (int)": 141,
+    "Budget (float)": 40000000.0,
+    "Box office (float)": 165500000.0,
+    "Release date (datetime)": "2015-10-04T00:00:00",
+    "Profit (float)": 125500000.0,
+    "IMDB Rating": "7.6",
+    "Metascore": "81",
+    "Rotten Tomatoes Score": "90%",
+    "Genres": "Drama, History, Thriller",
+    "Maturity Rating": "PG-13",
+    "Awards": "Won 1 Oscar. Another 29 wins & 102 nominations.",
+    "IMDB Rating (float)": 7.6,
+    "Metascore (int)": 81,
+    "Rotten Tomatoes Score (int)": "90"
+  },
+  {
+    "title": "Brooklyn",
+    "Directed by": "John Crowley",
+    "Produced by": [
+      "Amanda Posey",
+      "Finola Dwyer"
+    ],
+    "Screenplay by": "Nick Hornby",
+    "Based on": [
+      "Brooklyn",
+      "by",
+      "Colm Tóibín"
+    ],
+    "Starring": [
+      "Saoirse Ronan",
+      "Domhnall Gleeson",
+      "Emory Cohen",
+      "Jim Broadbent",
+      "Julie Walters"
+    ],
+    "Music by": "Michael Brook",
+    "Cinematography": "Yves Bélanger",
+    "Edited by": "Jake Roberts",
+    "Production companies": [
+      "BBC Films",
+      "Telefilm Canada",
+      "Irish Film Board",
+      "SODEC",
+      "BFI",
+      "Wildgaze Films",
+      "Finola Dwyer Productions",
+      "Parallel Films",
+      "Item 7",
+      "Ingenious",
+      "BAI",
+      "RTÉ",
+      "HanWay Films"
+    ],
+    "Distributed by": [
+      "Lionsgate (United Kingdom and Ireland)",
+      "Mongrel Media (Canada)"
+    ],
+    "Release date": [
+      "26 January 2015 ( Sundance )",
+      "6 November 2015 (United Kingdom and Ireland)",
+      "20 November 2015 (Canada)"
+    ],
+    "Running time": "112 minutes",
+    "Countries": [
+      "United Kingdom",
+      "Ireland",
+      "Canada"
+    ],
+    "Language": "English",
+    "Budget": "$11 million",
+    "Box office": "$62.1 million",
+    "Running time (int)": 112,
+    "Budget (float)": 11000000.0,
+    "Box office (float)": 62100000.0,
+    "Release date (datetime)": "2015-01-26T00:00:00",
+    "Profit (float)": 51100000.0,
+    "IMDB Rating": "7.5",
+    "Metascore": "88",
+    "Rotten Tomatoes Score": "97%",
+    "Genres": "Drama, Romance",
+    "Maturity Rating": "PG-13",
+    "Awards": "Nominated for 3 Oscars. Another 38 wins & 157 nominations.",
+    "IMDB Rating (float)": 7.5,
+    "Metascore (int)": 88,
+    "Rotten Tomatoes Score (int)": "97"
+  },
+  {
+    "title": "Mad Max: Fury Road",
+    "Directed by": "George Miller",
+    "Produced by": [
+      "Doug Mitchell",
+      "George Miller",
+      "PJ Voeten"
+    ],
+    "Written by": [
+      "George Miller",
+      "Brendan McCarthy",
+      "Nico Lathouris"
+    ],
+    "Starring": [
+      "Tom Hardy",
+      "Charlize Theron",
+      "Nicholas Hoult",
+      "Hugh Keays-Byrne",
+      "Rosie Huntington-Whiteley",
+      "Riley Keough",
+      "Zoë Kravitz",
+      "Abbey Lee",
+      "Courtney Eaton"
+    ],
+    "Music by": "Junkie XL",
+    "Cinematography": "John Seale",
+    "Edited by": "Margaret Sixel",
+    "Production companies": [
+      "Kennedy Miller Mitchell",
+      "RatPac-Dune Entertainment"
+    ],
+    "Distributed by": [
+      "Village Roadshow Pictures (Australia)",
+      "Warner Bros. Pictures (International)"
+    ],
+    "Release date": [
+      "May 7, 2015 ( TCL Chinese Theatre )",
+      "May 14, 2015 (Australia)"
+    ],
+    "Running time": "120 minutes",
+    "Country": "Australia",
+    "Language": "English",
+    "Budget": "$154.6–185.1 million",
+    "Box office": "$375.4 million",
+    "Running time (int)": 120,
+    "Budget (float)": 154600000.0,
+    "Box office (float)": 375400000.0,
+    "Release date (datetime)": "2015-05-07T00:00:00",
+    "Profit (float)": 220800000.0,
+    "IMDB Rating": "8.1",
+    "Metascore": "90",
+    "Rotten Tomatoes Score": "97%",
+    "Genres": "Action, Adventure, Sci-Fi, Thriller",
+    "Maturity Rating": "R",
+    "Awards": "Won 6 Oscars. Another 235 wins & 231 nominations.",
+    "IMDB Rating (float)": 8.1,
+    "Metascore (int)": 90,
+    "Rotten Tomatoes Score (int)": "97"
+  },
+  {
+    "title": "The Martian",
+    "Directed by": "Ridley Scott",
+    "Produced by": [
+      "Simon Kinberg",
+      "Ridley Scott",
+      "Michael Schaefer",
+      "Mark Huffam"
+    ],
+    "Written by": "Drew Goddard",
+    "Based on": [
+      "The Martian",
+      "by",
+      "Andy Weir"
+    ],
+    "Starring": [
+      "Matt Damon",
+      "Jessica Chastain",
+      "Kristen Wiig",
+      "Jeff Daniels",
+      "Michael Peña",
+      "Kate Mara",
+      "Sean Bean",
+      "Sebastian Stan",
+      "Aksel Hennie",
+      "Chiwetel Ejiofor"
+    ],
+    "Music by": "Harry Gregson-Williams",
+    "Cinematography": "Dariusz Wolski",
+    "Edited by": "Pietro Scalia",
+    "Production companies": [
+      "Scott Free Productions",
+      "Kinberg Genre",
+      "TSG Entertainment"
+    ],
+    "Distributed by": "20th Century Fox",
+    "Release date": [
+      "September 11, 2015 ( TIFF )",
+      "September 30, 2015 (United Kingdom)",
+      "October 2, 2015 (United States)"
+    ],
+    "Running time": "141 minutes",
+    "Countries": [
+      "United Kingdom",
+      "United States"
+    ],
+    "Language": "English",
+    "Budget": "$108 million",
+    "Box office": "$630.2 million",
+    "Running time (int)": 141,
+    "Budget (float)": 108000000.0,
+    "Box office (float)": 630200000.0,
+    "Release date (datetime)": "2015-09-11T00:00:00",
+    "Profit (float)": 522200000.0,
+    "IMDB Rating": "8.0",
+    "Metascore": "80",
+    "Rotten Tomatoes Score": "91%",
+    "Genres": "Adventure, Drama, Sci-Fi",
+    "Maturity Rating": "PG-13",
+    "Awards": "Nominated for 7 Oscars. Another 38 wins & 190 nominations.",
+    "IMDB Rating (float)": 8.0,
+    "Metascore (int)": 80,
+    "Rotten Tomatoes Score (int)": "91"
+  },
+  {
+    "title": "The Revenant",
+    "Directed by": "Alejandro G. Iñárritu",
+    "Produced by": [
+      "Arnon Milchan",
+      "Steve Golin",
+      "Alejandro G. Iñárritu",
+      "Mary Parent",
+      "Keith Redmon",
+      "James W. Skotchdopole"
+    ],
+    "Screenplay by": [
+      "Mark L. Smith",
+      "Alejandro G. Iñárritu"
+    ],
+    "Based on": [
+      "The Revenant",
+      "by",
+      "Michael Punke"
+    ],
+    "Starring": [
+      "Leonardo DiCaprio",
+      "Tom Hardy",
+      "Domhnall Gleeson",
+      "Will Poulter"
+    ],
+    "Music by": [
+      "Ryuichi Sakamoto",
+      "Alva Noto"
+    ],
+    "Cinematography": "Emmanuel Lubezki",
+    "Edited by": "Stephen Mirrione",
+    "Production companies": [
+      "Regency Enterprises",
+      "RatPac Entertainment",
+      "New Regency",
+      "Anonymous Content",
+      "M Productions",
+      "Appian Way Productions"
+    ],
+    "Distributed by": "20th Century Fox",
+    "Release date": [
+      "December 16, 2015 ( TCL Chinese Theatre )",
+      "December 25, 2015 (United States)"
+    ],
+    "Running time": "156 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$135 million",
+    "Box office": "$533 million",
+    "Running time (int)": 156,
+    "Budget (float)": 135000000.0,
+    "Box office (float)": 533000000.0,
+    "Release date (datetime)": "2015-12-16T00:00:00",
+    "Profit (float)": 398000000.0,
+    "IMDB Rating": "8.0",
+    "Metascore": "76",
+    "Rotten Tomatoes Score": "78%",
+    "Genres": "Action, Adventure, Drama, History, Western",
+    "Maturity Rating": "R",
+    "Awards": "Won 3 Oscars. Another 87 wins & 187 nominations.",
+    "IMDB Rating (float)": 8.0,
+    "Metascore (int)": 76,
+    "Rotten Tomatoes Score (int)": "78"
+  },
+  {
+    "title": "Room",
+    "Directed by": "Lenny Abrahamson",
+    "Produced by": [
+      "Ed Guiney",
+      "David Gross"
+    ],
+    "Screenplay by": "Emma Donoghue",
+    "Based on": [
+      "Room",
+      "by Emma Donoghue"
+    ],
+    "Starring": [
+      "Brie Larson",
+      "Jacob Tremblay",
+      "Joan Allen",
+      "Sean Bridgers",
+      "William H. Macy"
+    ],
+    "Music by": "Stephen Rennicks",
+    "Cinematography": "Danny Cohen",
+    "Edited by": "Nathan Nugent",
+    "Production companies": [
+      "Filmnation Entertainment",
+      "Telefilm Canada",
+      "Film4",
+      "Bórd Scannán na hÉireann/Irish Film Board",
+      "Ontario Media Development Corporation",
+      "Element Pictures",
+      "No Trace Camping",
+      "Duperele Films"
+    ],
+    "Distributed by": [
+      "Elevation Pictures (Canada)",
+      "StudioCanal (United Kingdom and Ireland)",
+      "A24 (United States)"
+    ],
+    "Release date": [
+      "September 4, 2015 ( Telluride )",
+      "October 16, 2015 (United States)",
+      "October 23, 2015 (Canada)",
+      "January 15, 2016 (United Kingdom and Ireland)"
+    ],
+    "Running time": "118 minutes",
+    "Countries": [
+      "Canada",
+      "Ireland",
+      "United Kingdom",
+      "United States"
+    ],
+    "Language": "English",
+    "Budget": "$13 million",
+    "Box office": "$36.3 million",
+    "Running time (int)": 118,
+    "Budget (float)": 13000000.0,
+    "Box office (float)": 36300000.0,
+    "Release date (datetime)": "2015-09-04T00:00:00",
+    "Profit (float)": 23300000.0,
+    "IMDB Rating": "8.1",
+    "Metascore": "86",
+    "Rotten Tomatoes Score": "93%",
+    "Genres": "Drama, Thriller",
+    "Maturity Rating": "R",
+    "Awards": "Won 1 Oscar. Another 104 wins & 140 nominations.",
+    "IMDB Rating (float)": 8.1,
+    "Metascore (int)": 86,
+    "Rotten Tomatoes Score (int)": "93"
+  },
+  {
+    "title": "Moonlight",
+    "Directed by": "Barry Jenkins",
+    "Produced by": [
+      "Adele Romanski",
+      "Dede Gardner",
+      "Jeremy Kleiner"
+    ],
+    "Screenplay by": "Barry Jenkins",
+    "Story by": "Tarell Alvin McCraney",
+    "Starring": [
+      "Trevante Rhodes",
+      "André Holland",
+      "Janelle Monáe",
+      "Ashton Sanders",
+      "Jharrel Jerome",
+      "Naomie Harris",
+      "Mahershala Ali"
+    ],
+    "Music by": "Nicholas Britell",
+    "Cinematography": "James Laxton",
+    "Edited by": [
+      "Nat Sanders",
+      "Joi McMillon"
+    ],
+    "Production companies": [
+      "A24",
+      "Plan B Entertainment",
+      "Pastel Productions"
+    ],
+    "Distributed by": "A24",
+    "Release date": [
+      "September 2, 2016 ( Telluride )",
+      "October 21, 2016 (United States)"
+    ],
+    "Running time": "111 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$1.5–4 million",
+    "Box office": "$65.3 million",
+    "Running time (int)": 111,
+    "Budget (float)": 1500000.0,
+    "Box office (float)": 65300000.0,
+    "Release date (datetime)": "2016-09-02T00:00:00",
+    "Profit (float)": 63800000.0,
+    "IMDB Rating": "7.4",
+    "Metascore": "99",
+    "Rotten Tomatoes Score": "98%",
+    "Genres": "Drama",
+    "Maturity Rating": "R",
+    "Awards": "Won 3 Oscars. Another 219 wins & 290 nominations.",
+    "IMDB Rating (float)": 7.4,
+    "Metascore (int)": 99,
+    "Rotten Tomatoes Score (int)": "98"
+  },
+  {
+    "title": "Arrival",
+    "Directed by": "Denis Villeneuve",
+    "Produced by": [
+      "Shawn Levy",
+      "Dan Levine",
+      "Aaron Ryder",
+      "David Linde"
+    ],
+    "Screenplay by": "Eric Heisserer",
+    "Based on": [
+      "\"",
+      "Story of Your Life",
+      "\"",
+      "by",
+      "Ted Chiang"
+    ],
+    "Starring": [
+      "Amy Adams",
+      "Jeremy Renner",
+      "Forest Whitaker",
+      "Michael Stuhlbarg",
+      "Tzi Ma"
+    ],
+    "Music by": "Jóhann Jóhannsson",
+    "Cinematography": "Bradford Young",
+    "Edited by": "Joe Walker",
+    "Production companies": [
+      "FilmNation Entertainment",
+      "Lava Bear Films",
+      "21 Laps Entertainment"
+    ],
+    "Distributed by": [
+      "Paramount Pictures (North America)",
+      "Sony Pictures Releasing International",
+      "Stage 6 Films (International)"
+    ],
+    "Release date": [
+      "September 1, 2016 ( Venice )",
+      "November 11, 2016 (United States)"
+    ],
+    "Running time": "116 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$47 million",
+    "Box office": "$203.4 million",
+    "Running time (int)": 116,
+    "Budget (float)": 47000000.0,
+    "Box office (float)": 203400000.0,
+    "Release date (datetime)": "2016-09-01T00:00:00",
+    "Profit (float)": 156400000.0,
+    "IMDB Rating": "7.9",
+    "Metascore": "81",
+    "Rotten Tomatoes Score": "94%",
+    "Genres": "Drama, Sci-Fi",
+    "Maturity Rating": "PG-13",
+    "Awards": "Won 1 Oscar. Another 63 wins & 261 nominations.",
+    "IMDB Rating (float)": 7.9,
+    "Metascore (int)": 81,
+    "Rotten Tomatoes Score (int)": "94"
+  },
+  {
+    "title": "Fences",
+    "Directed by": "Denzel Washington",
+    "Produced by": [
+      "Todd Black",
+      "Scott Rudin",
+      "Denzel Washington"
+    ],
+    "Screenplay by": "August Wilson",
+    "Based on": [
+      "Fences",
+      "by August Wilson"
+    ],
+    "Starring": [
+      "Denzel Washington",
+      "Viola Davis",
+      "Stephen McKinley Henderson",
+      "Jovan Adepo",
+      "Russell Hornsby",
+      "Mykelti Williamson",
+      "Saniyya Sidney"
+    ],
+    "Music by": "Marcelo Zarvos",
+    "Cinematography": "Charlotte Bruus Christensen",
+    "Edited by": "Hughes Winborne",
+    "Production companies": [
+      "Bron Creative",
+      "Macro Media",
+      "Escape Artists",
+      "Scott Rudin Productions"
+    ],
+    "Distributed by": "Paramount Pictures",
+    "Release date": [
+      "December 15, 2016 ( Curran Theatre )",
+      "December 16, 2016 (United States)"
+    ],
+    "Running time": "139 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$24 million",
+    "Box office": "$64.4 million",
+    "Running time (int)": 139,
+    "Budget (float)": 24000000.0,
+    "Box office (float)": 64400000.0,
+    "Release date (datetime)": "2016-12-15T00:00:00",
+    "Profit (float)": 40400000.0,
+    "IMDB Rating": "7.2",
+    "Metascore": "79",
+    "Rotten Tomatoes Score": "92%",
+    "Genres": "Drama",
+    "Maturity Rating": "PG-13",
+    "Awards": "Won 1 Oscar. Another 57 wins & 119 nominations.",
+    "IMDB Rating (float)": 7.2,
+    "Metascore (int)": 79,
+    "Rotten Tomatoes Score (int)": "92"
+  },
+  {
+    "title": "Hacksaw Ridge",
+    "Directed by": "Mel Gibson",
+    "Produced by": [
+      "Bill Mechanic",
+      "David Permut",
+      "Terry Benedict",
+      "Paul Currie",
+      "Bruce Davey",
+      "Brian Oliver",
+      "William D. Johnson"
+    ],
+    "Screenplay by": [
+      "Robert Schenkkan",
+      "Andrew Knight"
+    ],
+    "Based on": [
+      "The Conscientious Objector",
+      "by Terry Benedict"
+    ],
+    "Starring": [
+      "Andrew Garfield",
+      "Sam Worthington",
+      "Luke Bracey",
+      "Teresa Palmer",
+      "Hugo Weaving",
+      "Rachel Griffiths",
+      "Vince Vaughn"
+    ],
+    "Music by": "Rupert Gregson-Williams",
+    "Cinematography": "Simon Duggan",
+    "Edited by": "John Gilbert",
+    "Production companies": [
+      "Summit Entertainment",
+      "Cross Creek Pictures",
+      "Demarest Media",
+      "Argent Pictures",
+      "IM Global",
+      "AI Film Productions",
+      "Vendian Entertainment",
+      "Kylin Pictures",
+      "Pandemonium Films",
+      "Permut Presentations Production"
+    ],
+    "Distributed by": [
+      "Lionsgate (United States)",
+      "Icon Film Distribution (Australia)",
+      "IM Global (International)"
+    ],
+    "Release date": [
+      "September 4, 2016 ( Venice )",
+      "November 3, 2016 (Australia)",
+      "November 4, 2016 (United States)"
+    ],
+    "Running time": "139 minutes",
+    "Countries": [
+      "United States",
+      "Australia"
+    ],
+    "Language": "English",
+    "Budget": "$40 million",
+    "Box office": "$180.5 million",
+    "Running time (int)": 139,
+    "Budget (float)": 40000000.0,
+    "Box office (float)": 180500000.0,
+    "Release date (datetime)": "2016-09-04T00:00:00",
+    "Profit (float)": 140500000.0,
+    "IMDB Rating": "8.1",
+    "Metascore": "71",
+    "Rotten Tomatoes Score": "84%",
+    "Genres": "Biography, Drama, History, War",
+    "Maturity Rating": "R",
+    "Awards": "Won 2 Oscars. Another 51 wins & 115 nominations.",
+    "IMDB Rating (float)": 8.1,
+    "Metascore (int)": 71,
+    "Rotten Tomatoes Score (int)": "84"
+  },
+  {
+    "title": "Hell or High Water",
+    "Directed by": "David Mackenzie",
+    "Produced by": [
+      "Sidney Kimmel",
+      "Peter Berg",
+      "Carla Hacken",
+      "Julie Yorn"
+    ],
+    "Written by": "Taylor Sheridan",
+    "Starring": [
+      "Jeff Bridges",
+      "Chris Pine",
+      "Ben Foster",
+      "Gil Birmingham"
+    ],
+    "Music by": [
+      "Nick Cave",
+      "Warren Ellis"
+    ],
+    "Cinematography": "Giles Nuttgens",
+    "Edited by": "Jake Roberts",
+    "Production companies": [
+      "Sidney Kimmel Entertainment",
+      "OddLot Entertainment",
+      "Film 44",
+      "LBI Entertainment"
+    ],
+    "Distributed by": [
+      "Lionsgate",
+      "CBS Films"
+    ],
+    "Release date": [
+      "May 16, 2016 ( Cannes )",
+      "August 12, 2016 (United States)"
+    ],
+    "Running time": "102 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$12 million",
+    "Box office": "$37.9 million",
+    "Running time (int)": 102,
+    "Budget (float)": 12000000.0,
+    "Box office (float)": 37900000.0,
+    "Release date (datetime)": "2016-05-16T00:00:00",
+    "Profit (float)": 25900000.0,
+    "IMDB Rating": "7.6",
+    "Metascore": "88",
+    "Rotten Tomatoes Score": "97%",
+    "Genres": "Action, Crime, Drama, Thriller, Western",
+    "Maturity Rating": "R",
+    "Awards": "Nominated for 4 Oscars. Another 46 wins & 167 nominations.",
+    "IMDB Rating (float)": 7.6,
+    "Metascore (int)": 88,
+    "Rotten Tomatoes Score (int)": "97"
+  },
+  {
+    "title": "Hidden Figures",
+    "Directed by": "Theodore Melfi",
+    "Produced by": [
+      "Donna Gigliotti",
+      "Peter Chernin",
+      "Jenno Topping",
+      "Pharrell Williams",
+      "Theodore Melfi"
+    ],
+    "Screenplay by": [
+      "Allison Schroeder",
+      "Theodore Melfi"
+    ],
+    "Based on": [
+      "Hidden Figures",
+      "by",
+      "Margot Lee Shetterly"
+    ],
+    "Starring": [
+      "Taraji P. Henson",
+      "Octavia Spencer",
+      "Janelle Monáe",
+      "Kevin Costner",
+      "Kirsten Dunst",
+      "Jim Parsons"
+    ],
+    "Music by": [
+      "Hans Zimmer",
+      "Pharrell Williams",
+      "Benjamin Wallfisch"
+    ],
+    "Cinematography": "Mandy Walker",
+    "Edited by": "Peter Teschner",
+    "Production companies": [
+      "Fox 2000 Pictures",
+      "Chernin Entertainment",
+      "Levantine Films"
+    ],
+    "Distributed by": "20th Century Fox",
+    "Release date": [
+      "December 10, 2016 ( SVA Theatre )",
+      "December 25, 2016 (United States)"
+    ],
+    "Running time": "127 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$25 million",
+    "Box office": "$236.2 million",
+    "Running time (int)": 127,
+    "Budget (float)": 25000000.0,
+    "Box office (float)": 236200000.0,
+    "Release date (datetime)": "2016-12-10T00:00:00",
+    "Profit (float)": 211200000.0,
+    "IMDB Rating": "7.8",
+    "Metascore": "74",
+    "Rotten Tomatoes Score": "93%",
+    "Genres": "Biography, Drama, History",
+    "Maturity Rating": "PG",
+    "Awards": "Nominated for 3 Oscars. Another 36 wins & 91 nominations.",
+    "IMDB Rating (float)": 7.8,
+    "Metascore (int)": 74,
+    "Rotten Tomatoes Score (int)": "93"
+  },
+  {
+    "title": "La La Land",
+    "Directed by": "Damien Chazelle",
+    "Produced by": [
+      "Fred Berger",
+      "Jordan Horowitz",
+      "Gary Gilbert",
+      "Marc Platt"
+    ],
+    "Written by": "Damien Chazelle",
+    "Starring": [
+      "Ryan Gosling",
+      "Emma Stone",
+      "John Legend",
+      "Rosemarie DeWitt"
+    ],
+    "Music by": "Justin Hurwitz",
+    "Cinematography": "Linus Sandgren",
+    "Edited by": "Tom Cross",
+    "Production companies": [
+      "Summit Entertainment",
+      "Gilbert Films",
+      "Marc Platt Productions",
+      "Impostor Pictures",
+      "Black Label Media"
+    ],
+    "Distributed by": "Lionsgate",
+    "Release date": [
+      "August 31, 2016 ( Venice )",
+      "December 9, 2016 (United States)"
+    ],
+    "Running time": "128 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$30 million",
+    "Box office": "$448.9 million",
+    "Running time (int)": 128,
+    "Budget (float)": 30000000.0,
+    "Box office (float)": 448900000.0,
+    "Release date (datetime)": "2016-08-31T00:00:00",
+    "Profit (float)": 418900000.0,
+    "IMDB Rating": "8.0",
+    "Metascore": "94",
+    "Rotten Tomatoes Score": "91%",
+    "Genres": "Comedy, Drama, Music, Musical, Romance",
+    "Maturity Rating": "PG-13",
+    "Awards": "Won 6 Oscars. Another 235 wins & 287 nominations.",
+    "IMDB Rating (float)": 8.0,
+    "Metascore (int)": 94,
+    "Rotten Tomatoes Score (int)": "91"
+  },
+  {
+    "title": "Lion",
+    "Directed by": "Garth Davis",
+    "Produced by": [
+      "Emile Sherman",
+      "Iain Canning",
+      "Angie Fielder"
+    ],
+    "Screenplay by": "Luke Davies",
+    "Based on": [
+      "A Long Way Home",
+      "by",
+      "Saroo Brierley"
+    ],
+    "Starring": [
+      "Dev Patel",
+      "Sunny Pawar",
+      "Nicole Kidman",
+      "Rooney Mara",
+      "David Wenham",
+      "Abhishek Bharate",
+      "Divian Ladwa",
+      "Priyanka Bose",
+      "Deepti Naval",
+      "Tannishtha Chatterjee",
+      "Nawazuddin Siddiqui",
+      "Kaushik Sen",
+      "Divian Ladwa"
+    ],
+    "Music by": [
+      "Dustin O'Halloran",
+      "Hauschka"
+    ],
+    "Cinematography": "Greig Fraser",
+    "Edited by": "Alexandre de Franceschi",
+    "Production companies": [
+      "The Weinstein Company",
+      "Screen Australia",
+      "See-Saw Films",
+      "Aquarius Films",
+      "Sunstar Entertainment"
+    ],
+    "Distributed by": [
+      "Transmission Films",
+      "Pictureworks"
+    ],
+    "Release date": [
+      "September 10, 2016 ( TIFF )",
+      "November 25, 2016 (United States)",
+      "January 19, 2017 (Australia)",
+      "January 20, 2017 (United Kingdom)"
+    ],
+    "Running time": "118 minutes",
+    "Countries": [
+      "Australia",
+      "India"
+    ],
+    "Languages": [
+      "English",
+      "Hindi",
+      "Bengali"
+    ],
+    "Budget": "$12 million",
+    "Box office": "$140.3 million",
+    "Running time (int)": 118,
+    "Budget (float)": 12000000.0,
+    "Box office (float)": 140300000.0,
+    "Release date (datetime)": "2016-09-10T00:00:00",
+    "Profit (float)": 128300000.0,
+    "IMDB Rating": "8.0",
+    "Metascore": "69",
+    "Rotten Tomatoes Score": "84%",
+    "Genres": "Biography, Drama",
+    "Maturity Rating": "PG-13",
+    "Awards": "Nominated for 6 Oscars. Another 58 wins & 103 nominations.",
+    "IMDB Rating (float)": 8.0,
+    "Metascore (int)": 69,
+    "Rotten Tomatoes Score (int)": "84"
+  },
+  {
+    "title": "Manchester by the Sea",
+    "Directed by": "Kenneth Lonergan",
+    "Produced by": [
+      "Matt Damon",
+      "Kimberly Steward",
+      "Chris Moore",
+      "Lauren Beck",
+      "Kevin J. Walsh"
+    ],
+    "Written by": "Kenneth Lonergan",
+    "Starring": [
+      "Casey Affleck",
+      "Michelle Williams",
+      "Kyle Chandler",
+      "Lucas Hedges"
+    ],
+    "Music by": "Lesley Barber",
+    "Cinematography": "Jody Lee Lipes",
+    "Edited by": "Jennifer Lame",
+    "Production companies": [
+      "K Period Media",
+      "Pearl Street Films",
+      "The Media Farm",
+      "The Affleck / Middleton Project",
+      "B Story"
+    ],
+    "Distributed by": [
+      "Amazon Studios",
+      "Roadside Attractions"
+    ],
+    "Release date": [
+      "January 23, 2016 ( Sundance )",
+      "November 18, 2016 (United States)"
+    ],
+    "Running time": "137 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$9 million",
+    "Box office": "$79 million",
+    "Running time (int)": 137,
+    "Budget (float)": 9000000.0,
+    "Box office (float)": 79000000.0,
+    "Release date (datetime)": "2016-01-23T00:00:00",
+    "Profit (float)": 70000000.0,
+    "IMDB Rating": "7.8",
+    "Metascore": "96",
+    "Rotten Tomatoes Score": "96%",
+    "Genres": "Drama",
+    "Maturity Rating": "R",
+    "Awards": "Won 2 Oscars. Another 127 wins & 263 nominations.",
+    "IMDB Rating (float)": 7.8,
+    "Metascore (int)": 96,
+    "Rotten Tomatoes Score (int)": "96"
+  },
+  {
+    "title": "The Shape of Water",
+    "Directed by": "Guillermo del Toro",
+    "Produced by": [
+      "Guillermo del Toro",
+      "J. Miles Dale"
+    ],
+    "Screenplay by": [
+      "Guillermo del Toro",
+      "Vanessa Taylor"
+    ],
+    "Story by": "Guillermo del Toro",
+    "Starring": [
+      "Sally Hawkins",
+      "Michael Shannon",
+      "Richard Jenkins",
+      "Doug Jones",
+      "Michael Stuhlbarg",
+      "Octavia Spencer"
+    ],
+    "Music by": "Alexandre Desplat",
+    "Cinematography": "Dan Laustsen",
+    "Edited by": "Sidney Wolinsky",
+    "Production companies": [
+      "Fox Searchlight Pictures",
+      "TSG Entertainment",
+      "Double Dare You Productions"
+    ],
+    "Distributed by": "Fox Searchlight Pictures",
+    "Release date": [
+      "August 31, 2017 ( Venice )",
+      "December 1, 2017 (United States)"
+    ],
+    "Running time": "123 minutes",
+    "Country": "United States",
+    "Languages": [
+      "American Sign Language",
+      "English"
+    ],
+    "Budget": "$19.5–20 million",
+    "Box office": "$195.3 million",
+    "Running time (int)": 123,
+    "Budget (float)": 19500000.0,
+    "Box office (float)": 195300000.0,
+    "Release date (datetime)": "2017-08-31T00:00:00",
+    "Profit (float)": 175800000.0,
+    "IMDB Rating": "7.3",
+    "Metascore": "87",
+    "Rotten Tomatoes Score": "92%",
+    "Genres": "Adventure, Drama, Fantasy, Romance, Sci-Fi, Thriller",
+    "Maturity Rating": "R",
+    "Awards": "Won 4 Oscars. Another 132 wins & 350 nominations.",
+    "IMDB Rating (float)": 7.3,
+    "Metascore (int)": 87,
+    "Rotten Tomatoes Score (int)": "92"
+  },
+  {
+    "title": "Call Me by Your Name",
+    "Directed by": "Luca Guadagnino",
+    "Produced by": [
+      "Peter Spears",
+      "Luca Guadagnino",
+      "Emilie Georges",
+      "Rodrigo Teixeira",
+      "Marco Morabito",
+      "James Ivory",
+      "Howard Rosenman"
+    ],
+    "Screenplay by": "James Ivory",
+    "Based on": [
+      "Call Me by Your Name",
+      "by",
+      "André Aciman"
+    ],
+    "Starring": [
+      "Armie Hammer",
+      "Timothée Chalamet",
+      "Michael Stuhlbarg",
+      "Amira Casar",
+      "Esther Garrel",
+      "Victoire Du Bois"
+    ],
+    "Cinematography": "Sayombhu Mukdeeprom",
+    "Edited by": "Walter Fasano",
+    "Production companies": [
+      "Frenesy Film Company",
+      "La Cinéfacture",
+      "RT Features",
+      "M.Y.R.A. Entertainment",
+      "Water's End Productions"
+    ],
+    "Distributed by": [
+      "Sony Pictures Classics (United States)",
+      "Warner Bros. Pictures (Italy)",
+      "Memento Films International (worldwide)"
+    ],
+    "Release date": [
+      "January 22, 2017 ( Sundance )",
+      "November 24, 2017 (United States)",
+      "January 18, 2018 (Brazil)",
+      "January 25, 2018 (Italy)"
+    ],
+    "Running time": "132 minutes",
+    "Countries": [
+      "Italy",
+      "United States",
+      "France",
+      "Brazil"
+    ],
+    "Languages": [
+      "English",
+      "Italian",
+      "French"
+    ],
+    "Budget": "$3.5 million",
+    "Box office": "$41.9 million",
+    "Running time (int)": 132,
+    "Budget (float)": 3500000.0,
+    "Box office (float)": 41900000.0,
+    "Release date (datetime)": "2017-01-22T00:00:00",
+    "Profit (float)": 38400000.0,
+    "IMDB Rating": "7.9",
+    "Metascore": "93",
+    "Rotten Tomatoes Score": "94%",
+    "Genres": "Drama, Romance",
+    "Maturity Rating": "R",
+    "Awards": "Won 1 Oscar. Another 94 wins & 258 nominations.",
+    "IMDB Rating (float)": 7.9,
+    "Metascore (int)": 93,
+    "Rotten Tomatoes Score (int)": "94"
+  },
+  {
+    "title": "Darkest Hour",
+    "Directed by": "Joe Wright",
+    "Produced by": [
+      "Tim Bevan",
+      "Lisa Bruce",
+      "Eric Fellner",
+      "Anthony McCarten",
+      "Douglas Urbanski"
+    ],
+    "Written by": "Anthony McCarten",
+    "Starring": [
+      "Gary Oldman",
+      "Kristin Scott Thomas",
+      "Lily James",
+      "Stephen Dillane",
+      "Ronald Pickup",
+      "Ben Mendelsohn"
+    ],
+    "Music by": "Dario Marianelli",
+    "Cinematography": "Bruno Delbonnel",
+    "Edited by": "Valerio Bonelli",
+    "Production companies": [
+      "Perfect World Pictures",
+      "Working Title Films"
+    ],
+    "Distributed by": [
+      "Focus Features (United States)",
+      "Universal Pictures (International)"
+    ],
+    "Release date": [
+      "1 September 2017 ( Telluride )",
+      "22 November 2017 (United States)",
+      "12 January 2018 (United Kingdom)"
+    ],
+    "Running time": "125 minutes",
+    "Countries": [
+      "United Kingdom",
+      "United States"
+    ],
+    "Language": "English",
+    "Budget": "$30 million",
+    "Box office": "$150.8 million",
+    "Running time (int)": 125,
+    "Budget (float)": 30000000.0,
+    "Box office (float)": 150800000.0,
+    "Release date (datetime)": "2017-09-01T00:00:00",
+    "Profit (float)": 120800000.0,
+    "IMDB Rating": "7.4",
+    "Metascore": "75",
+    "Rotten Tomatoes Score": "84%",
+    "Genres": "Biography, Drama, History, War",
+    "Maturity Rating": "PG-13",
+    "Awards": "Won 2 Oscars. Another 51 wins & 77 nominations.",
+    "IMDB Rating (float)": 7.4,
+    "Metascore (int)": 75,
+    "Rotten Tomatoes Score (int)": "84"
+  },
+  {
+    "title": "Dunkirk",
+    "Directed by": "Christopher Nolan",
+    "Produced by": [
+      "Emma Thomas",
+      "Christopher Nolan"
+    ],
+    "Written by": "Christopher Nolan",
+    "Starring": [
+      "Fionn Whitehead",
+      "Tom Glynn-Carney",
+      "Jack Lowden",
+      "Harry Styles",
+      "Aneurin Barnard",
+      "James D'Arcy",
+      "Barry Keoghan",
+      "Kenneth Branagh",
+      "Cillian Murphy",
+      "Mark Rylance",
+      "Tom Hardy"
+    ],
+    "Music by": "Hans Zimmer",
+    "Cinematography": "Hoyte van Hoytema",
+    "Edited by": "Lee Smith",
+    "Production companies": [
+      "Warner Bros. Pictures",
+      "Syncopy Inc.",
+      "RatPac-Dune Entertainment",
+      "Canal+",
+      "Ciné+",
+      "StudioCanal"
+    ],
+    "Distributed by": "Warner Bros. Pictures",
+    "Release date": [
+      "13 July 2017 ( Odeon Leicester Square )",
+      "19 July 2017 (France)",
+      "20 July 2017 (Netherlands)",
+      "21 July 2017 (UK & US)"
+    ],
+    "Running time": "106 minutes",
+    "Countries": [
+      "United Kingdom",
+      "United States",
+      "France",
+      "Netherlands"
+    ],
+    "Language": "English",
+    "Budget": "$100–150 million",
+    "Box office": "$526.9 million",
+    "Running time (int)": 106,
+    "Budget (float)": 100000000.0,
+    "Box office (float)": 526900000.0,
+    "Release date (datetime)": "2017-07-13T00:00:00",
+    "Profit (float)": 426900000.0,
+    "IMDB Rating": "7.8",
+    "Metascore": "94",
+    "Rotten Tomatoes Score": "92%",
+    "Genres": "Action, Drama, History, Thriller, War",
+    "Maturity Rating": "PG-13",
+    "Awards": "Won 3 Oscars. Another 60 wins & 229 nominations.",
+    "IMDB Rating (float)": 7.8,
+    "Metascore (int)": 94,
+    "Rotten Tomatoes Score (int)": "92"
+  },
+  {
+    "title": "Get Out",
+    "Directed by": "Jordan Peele",
+    "Produced by": [
+      "Sean McKittrick",
+      "Jason Blum",
+      "Edward H. Hamm Jr.",
+      "Jordan Peele"
+    ],
+    "Written by": "Jordan Peele",
+    "Starring": [
+      "Daniel Kaluuya",
+      "Allison Williams",
+      "Bradley Whitford",
+      "Caleb Landry Jones",
+      "Stephen Root",
+      "Lakeith Stanfield",
+      "Catherine Keener"
+    ],
+    "Music by": "Michael Abels",
+    "Cinematography": "Toby Oliver",
+    "Edited by": "Gregory Plotkin",
+    "Production companies": [
+      "Blumhouse Productions",
+      "QC Entertainment",
+      "Monkeypaw Productions"
+    ],
+    "Distributed by": "Universal Pictures",
+    "Release date": [
+      "January 23, 2017 ( Sundance )",
+      "February 24, 2017 (United States)"
+    ],
+    "Running time": "104 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$4.5 million",
+    "Box office": "$255.4 million",
+    "Running time (int)": 104,
+    "Budget (float)": 4500000.0,
+    "Box office (float)": 255400000.0,
+    "Release date (datetime)": "2017-01-23T00:00:00",
+    "Profit (float)": 250900000.0,
+    "IMDB Rating": "7.7",
+    "Metascore": "85",
+    "Rotten Tomatoes Score": "98%",
+    "Genres": "Horror, Mystery, Thriller",
+    "Maturity Rating": "R",
+    "Awards": "Won 1 Oscar. Another 147 wins & 202 nominations.",
+    "IMDB Rating (float)": 7.7,
+    "Metascore (int)": 85,
+    "Rotten Tomatoes Score (int)": "98"
+  },
+  {
+    "title": "Lady Bird",
+    "Directed by": "Greta Gerwig",
+    "Produced by": [
+      "Scott Rudin",
+      "Eli Bush",
+      "Evelyn O'Neill"
+    ],
+    "Written by": "Greta Gerwig",
+    "Starring": [
+      "Saoirse Ronan",
+      "Laurie Metcalf",
+      "Tracy Letts",
+      "Lucas Hedges",
+      "Timothée Chalamet",
+      "Beanie Feldstein",
+      "Lois Smith",
+      "Odeya Rush",
+      "Stephen McKinley Henderson"
+    ],
+    "Music by": "Jon Brion",
+    "Cinematography": "Sam Levy",
+    "Edited by": "Nick Houy",
+    "Production companies": [
+      "IAC Films",
+      "Scott Rudin Productions",
+      "Management 360"
+    ],
+    "Distributed by": [
+      "A24 (United States)",
+      "Universal Pictures",
+      "Focus Features (International)"
+    ],
+    "Release date": [
+      "September 1, 2017 ( Telluride )",
+      "November 3, 2017 (United States)"
+    ],
+    "Running time": "94 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$10 million",
+    "Box office": "$79 million",
+    "Running time (int)": 94,
+    "Budget (float)": 10000000.0,
+    "Box office (float)": 79000000.0,
+    "Release date (datetime)": "2017-09-01T00:00:00",
+    "Profit (float)": 69000000.0,
+    "IMDB Rating": "7.4",
+    "Metascore": "94",
+    "Rotten Tomatoes Score": "99%",
+    "Genres": "Comedy, Drama",
+    "Maturity Rating": "R",
+    "Awards": "Nominated for 5 Oscars. Another 117 wins & 220 nominations.",
+    "IMDB Rating (float)": 7.4,
+    "Metascore (int)": 94,
+    "Rotten Tomatoes Score (int)": "99"
+  },
+  {
+    "title": "Phantom Thread",
+    "Directed by": "Paul Thomas Anderson",
+    "Produced by": [
+      "JoAnne Sellar",
+      "Paul Thomas Anderson",
+      "Megan Ellison",
+      "Daniel Lupi"
+    ],
+    "Written by": "Paul Thomas Anderson",
+    "Starring": [
+      "Daniel Day-Lewis",
+      "Lesley Manville",
+      "Vicky Krieps"
+    ],
+    "Music by": "Jonny Greenwood",
+    "Edited by": "Dylan Tichenor",
+    "Production companies": [
+      "Annapurna Pictures",
+      "Ghoulardi Film Company",
+      "Perfect World Pictures"
+    ],
+    "Distributed by": [
+      "Focus Features (US)",
+      "Universal Pictures (International)"
+    ],
+    "Release date": [
+      "December 11, 2017 ( Walter Reade Theater )",
+      "December 25, 2017 (United States)"
+    ],
+    "Running time": "130 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$35 million",
+    "Box office": "$47.8 million",
+    "Running time (int)": 130,
+    "Budget (float)": 35000000.0,
+    "Box office (float)": 47800000.0,
+    "Release date (datetime)": "2017-12-11T00:00:00",
+    "Profit (float)": 12800000.0,
+    "IMDB Rating": "7.5",
+    "Metascore": "90",
+    "Rotten Tomatoes Score": "91%",
+    "Genres": "Drama, Romance",
+    "Maturity Rating": "R",
+    "Awards": "Won 1 Oscar. Another 54 wins & 121 nominations.",
+    "IMDB Rating (float)": 7.5,
+    "Metascore (int)": 90,
+    "Rotten Tomatoes Score (int)": "91"
+  },
+  {
+    "title": "The Post",
+    "Directed by": "Steven Spielberg",
+    "Produced by": [
+      "Steven Spielberg",
+      "Kristie Macosko Krieger",
+      "Amy Pascal"
+    ],
+    "Written by": [
+      "Liz Hannah",
+      "Josh Singer"
+    ],
+    "Starring": [
+      "Meryl Streep",
+      "Tom Hanks",
+      "Sarah Paulson",
+      "Bob Odenkirk",
+      "Tracy Letts",
+      "Bradley Whitford",
+      "Bruce Greenwood",
+      "Matthew Rhys"
+    ],
+    "Music by": "John Williams",
+    "Cinematography": "Janusz Kamiński",
+    "Edited by": [
+      "Michael Kahn",
+      "Sarah Broshar"
+    ],
+    "Production companies": [
+      "20th Century Fox",
+      "DreamWorks Pictures",
+      "Amblin Partners",
+      "Amblin Entertainment",
+      "Pascal Pictures",
+      "Star Thrower Entertainment",
+      "Participant Media"
+    ],
+    "Distributed by": [
+      "20th Century Fox",
+      "Universal Pictures",
+      "Mister Smith Entertainment ( EMEA )"
+    ],
+    "Release date": [
+      "December 14, 2017 ( Newseum )",
+      "December 22, 2017 (United States)"
+    ],
+    "Running time": "116 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$50 million",
+    "Box office": "$179.8 million",
+    "Running time (int)": 116,
+    "Budget (float)": 50000000.0,
+    "Box office (float)": 179800000.0,
+    "Release date (datetime)": "2017-12-14T00:00:00",
+    "Profit (float)": 129800000.0,
+    "IMDB Rating": "7.2",
+    "Metascore": "83",
+    "Rotten Tomatoes Score": "88%",
+    "Genres": "Drama",
+    "Maturity Rating": "PG-13",
+    "Awards": "Nominated for 2 Oscars. Another 20 wins & 110 nominations.",
+    "IMDB Rating (float)": 7.2,
+    "Metascore (int)": 83,
+    "Rotten Tomatoes Score (int)": "88"
+  },
+  {
+    "title": "Three Billboards Outside Ebbing, Missouri",
+    "Directed by": "Martin McDonagh",
+    "Produced by": [
+      "Graham Broadbent",
+      "Peter Czernin",
+      "Martin McDonagh"
+    ],
+    "Written by": "Martin McDonagh",
+    "Starring": [
+      "Frances McDormand",
+      "Woody Harrelson",
+      "Sam Rockwell",
+      "Abbie Cornish",
+      "John Hawkes",
+      "Peter Dinklage"
+    ],
+    "Music by": "Carter Burwell",
+    "Cinematography": "Ben Davis",
+    "Edited by": "Jon Gregory",
+    "Production companies": [
+      "Fox Searchlight Pictures",
+      "Film4 Productions",
+      "Blueprint Pictures",
+      "Cutting Edge Group"
+    ],
+    "Distributed by": "Fox Searchlight Pictures",
+    "Release date": [
+      "September 4, 2017 ( Venice )",
+      "November 10, 2017 (United States)",
+      "January 12, 2018 (United Kingdom)"
+    ],
+    "Running time": "115 minutes",
+    "Countries": [
+      "United States",
+      "United Kingdom"
+    ],
+    "Language": "English",
+    "Budget": "$12–15 million",
+    "Box office": "$160.2 million",
+    "Running time (int)": 115,
+    "Budget (float)": 12000000.0,
+    "Box office (float)": 160200000.0,
+    "Release date (datetime)": "2017-09-04T00:00:00",
+    "Profit (float)": 148200000.0,
+    "IMDB Rating": "8.1",
+    "Metascore": "88",
+    "Rotten Tomatoes Score": "90%",
+    "Genres": "Comedy, Crime, Drama",
+    "Maturity Rating": "R",
+    "Awards": "Won 2 Oscars. Another 128 wins & 228 nominations.",
+    "IMDB Rating (float)": 8.1,
+    "Metascore (int)": 88,
+    "Rotten Tomatoes Score (int)": "90"
+  },
+  {
+    "title": "Green Book",
+    "Directed by": "Peter Farrelly",
+    "Produced by": [
+      "Jim Burke",
+      "Brian Hayes Currie",
+      "Peter Farrelly",
+      "Nick Vallelonga",
+      "Charles B. Wessler"
+    ],
+    "Written by": [
+      "Nick Vallelonga",
+      "Brian Hayes Currie",
+      "Peter Farrelly"
+    ],
+    "Starring": [
+      "Viggo Mortensen",
+      "Mahershala Ali",
+      "Linda Cardellini"
+    ],
+    "Music by": "Kris Bowers",
+    "Cinematography": "Sean Porter",
+    "Edited by": "Patrick J. Don Vito",
+    "Production companies": [
+      "Participant Media",
+      "DreamWorks Pictures",
+      "Reliance Entertainment",
+      "Innisfree Pictures",
+      "Cinetic Media",
+      "Alibaba Pictures"
+    ],
+    "Distributed by": "Universal Pictures",
+    "Release date": [
+      "September 11, 2018 ( TIFF )",
+      "November 16, 2018 (United States)"
+    ],
+    "Running time": "130 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$23 million",
+    "Box office": "$321.8 million",
+    "Running time (int)": 130,
+    "Budget (float)": 23000000.0,
+    "Box office (float)": 321800000.0,
+    "Release date (datetime)": "2018-09-11T00:00:00",
+    "Profit (float)": 298800000.0,
+    "IMDB Rating": "8.2",
+    "Metascore": "69",
+    "Rotten Tomatoes Score": "78%",
+    "Genres": "Biography, Comedy, Drama, Music",
+    "Maturity Rating": "PG-13",
+    "Awards": "Won 3 Oscars. Another 55 wins & 122 nominations.",
+    "IMDB Rating (float)": 8.2,
+    "Metascore (int)": 69,
+    "Rotten Tomatoes Score (int)": "78"
+  },
+  {
+    "title": "Black Panther",
+    "Directed by": "Ryan Coogler",
+    "Produced by": "Kevin Feige",
+    "Written by": [
+      "Ryan Coogler",
+      "Joe Robert Cole"
+    ],
+    "Based on": [
+      "Stan Lee",
+      "Jack Kirby"
+    ],
+    "Starring": [
+      "Chadwick Boseman",
+      "Michael B. Jordan",
+      "Lupita Nyong'o",
+      "Danai Gurira",
+      "Martin Freeman",
+      "Daniel Kaluuya",
+      "Letitia Wright",
+      "Winston Duke",
+      "Angela Bassett",
+      "Forest Whitaker",
+      "Andy Serkis"
+    ],
+    "Music by": "Ludwig Göransson",
+    "Cinematography": "Rachel Morrison",
+    "Edited by": [
+      "Michael P. Shawver",
+      "Debbie Berman"
+    ],
+    "Production company": "Marvel Studios",
+    "Distributed by": [
+      "Walt Disney Studios",
+      "Motion Pictures"
+    ],
+    "Release date": [
+      "January 29, 2018 ( Dolby Theatre )",
+      "February 16, 2018 (United States)"
+    ],
+    "Running time": "134 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$200 million",
+    "Box office": "$1.348 billion",
+    "Running time (int)": 134,
+    "Budget (float)": 200000000.0,
+    "Box office (float)": 1348000000.0,
+    "Release date (datetime)": "2018-01-29T00:00:00",
+    "Profit (float)": 1148000000.0,
+    "IMDB Rating": "7.3",
+    "Metascore": "88",
+    "Rotten Tomatoes Score": "96%",
+    "Genres": "Action, Adventure, Sci-Fi",
+    "Maturity Rating": "PG-13",
+    "Awards": "Won 3 Oscars. Another 109 wins & 272 nominations.",
+    "IMDB Rating (float)": 7.3,
+    "Metascore (int)": 88,
+    "Rotten Tomatoes Score (int)": "96"
+  },
+  {
+    "title": "BlacKkKlansman",
+    "Directed by": "Spike Lee",
+    "Produced by": [
+      "Jason Blum",
+      "Spike Lee",
+      "Raymond Mansfield",
+      "Sean McKittrick",
+      "Jordan Peele",
+      "Shaun Redick"
+    ],
+    "Written by": [
+      "Charlie Wachtel",
+      "David Rabinowitz",
+      "Kevin Willmott",
+      "Spike Lee"
+    ],
+    "Based on": [
+      "Black Klansman",
+      "by",
+      "Ron Stallworth"
+    ],
+    "Starring": [
+      "John David Washington",
+      "Adam Driver",
+      "Laura Harrier",
+      "Topher Grace"
+    ],
+    "Music by": "Terence Blanchard",
+    "Cinematography": "Chayse Irvin",
+    "Edited by": "Barry Alexander Brown",
+    "Production companies": [
+      "Blumhouse Productions",
+      "Monkeypaw Productions",
+      "QC Entertainment",
+      "40 Acres and a Mule Filmworks",
+      "Legendary Entertainment",
+      "Perfect World Pictures"
+    ],
+    "Distributed by": "Focus Features",
+    "Release date": [
+      "May 14, 2018 ( Cannes )",
+      "August 10, 2018 (United States)"
+    ],
+    "Running time": [
+      "128 minutes",
+      "135 minutes"
+    ],
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$15 million",
+    "Box office": "$93.4 million",
+    "Running time (int)": 128,
+    "Budget (float)": 15000000.0,
+    "Box office (float)": 93400000.0,
+    "Release date (datetime)": "2018-05-14T00:00:00",
+    "Profit (float)": 78400000.0,
+    "IMDB Rating": "7.5",
+    "Metascore": "83",
+    "Rotten Tomatoes Score": "96%",
+    "Genres": "Biography, Comedy, Crime, Drama",
+    "Maturity Rating": "R",
+    "Awards": "Won 1 Oscar. Another 42 wins & 210 nominations.",
+    "IMDB Rating (float)": 7.5,
+    "Metascore (int)": 83,
+    "Rotten Tomatoes Score (int)": "96"
+  },
+  {
+    "title": "Bohemian Rhapsody",
+    "Directed by": "Bryan Singer",
+    "Produced by": [
+      "Graham King",
+      "Jim Beach"
+    ],
+    "Screenplay by": "Anthony McCarten",
+    "Story by": [
+      "Anthony McCarten",
+      "Peter Morgan"
+    ],
+    "Starring": [
+      "Rami Malek",
+      "Lucy Boynton",
+      "Gwilym Lee",
+      "Ben Hardy",
+      "Joe Mazzello",
+      "Aaron McCusker",
+      "Aidan Gillen",
+      "Allen Leech",
+      "Tom Hollander",
+      "Mike Myers"
+    ],
+    "Music by": "Queen",
+    "Cinematography": "Newton Thomas Sigel",
+    "Edited by": "John Ottman",
+    "Production companies": [
+      "20th Century Fox",
+      "Regency Enterprises",
+      "GK Films",
+      "Queen Films"
+    ],
+    "Distributed by": "20th Century Fox",
+    "Release date": [
+      "23 October 2018 ( Wembley Arena )",
+      "24 October 2018 (United Kingdom)",
+      "2 November 2018 (United States)"
+    ],
+    "Running time": "134 minutes",
+    "Countries": [
+      "United Kingdom",
+      "United States"
+    ],
+    "Language": "English",
+    "Budget": "$50–55 million",
+    "Box office": "$905.2 million",
+    "Running time (int)": 134,
+    "Budget (float)": 50000000.0,
+    "Box office (float)": 905200000.0,
+    "Release date (datetime)": "2018-10-23T00:00:00",
+    "Profit (float)": 855200000.0,
+    "IMDB Rating": "8.0",
+    "Metascore": "49",
+    "Rotten Tomatoes Score": "61%",
+    "Genres": "Biography, Drama, Music",
+    "Maturity Rating": "PG-13",
+    "Awards": "Won 4 Oscars. Another 41 wins & 77 nominations.",
+    "IMDB Rating (float)": 8.0,
+    "Metascore (int)": 49,
+    "Rotten Tomatoes Score (int)": "61"
+  },
+  {
+    "title": "The Favourite",
+    "Directed by": "Yorgos Lanthimos",
+    "Produced by": [
+      "Ceci Dempsey",
+      "Ed Guiney",
+      "Lee Magiday",
+      "Yorgos Lanthimos"
+    ],
+    "Written by": [
+      "Deborah Davis",
+      "Tony McNamara"
+    ],
+    "Starring": [
+      "Olivia Colman",
+      "Rachel Weisz",
+      "Emma Stone"
+    ],
+    "Cinematography": "Robbie Ryan",
+    "Edited by": "Yorgos Mavropsaridis",
+    "Production companies": [
+      "Scarlet Films",
+      "Element Pictures",
+      "Arcana",
+      "Film4 Productions",
+      "Waypoint Entertainment"
+    ],
+    "Distributed by": "Fox Searchlight Pictures",
+    "Release date": [
+      "30 August 2018 ( Venice )",
+      "23 November 2018 (United States)",
+      "1 January 2019 (United Kingdom and Ireland)"
+    ],
+    "Running time": "120 minutes",
+    "Countries": [
+      "United Kingdom",
+      "Ireland",
+      "United States"
+    ],
+    "Language": "English",
+    "Budget": "$15 million",
+    "Box office": "$96 million",
+    "Running time (int)": 120,
+    "Budget (float)": 15000000.0,
+    "Box office (float)": 96000000.0,
+    "Release date (datetime)": "2018-08-30T00:00:00",
+    "Profit (float)": 81000000.0,
+    "IMDB Rating": "7.5",
+    "Metascore": "91",
+    "Rotten Tomatoes Score": "93%",
+    "Genres": "Biography, Comedy, Drama, History",
+    "Maturity Rating": "R",
+    "Awards": "Won 1 Oscar. Another 181 wins & 335 nominations.",
+    "IMDB Rating (float)": 7.5,
+    "Metascore (int)": 91,
+    "Rotten Tomatoes Score (int)": "93"
+  },
+  {
+    "title": "Roma",
+    "Directed by": "Alfonso Cuarón",
+    "Produced by": [
+      "Gabriela Rodríguez",
+      "Alfonso Cuarón",
+      "Nicolás Celis"
+    ],
+    "Written by": "Alfonso Cuarón",
+    "Starring": [
+      "Yalitza Aparicio",
+      "Marina de Tavira"
+    ],
+    "Cinematography": "Alfonso Cuarón",
+    "Edited by": [
+      "Alfonso Cuarón",
+      "Adam Gough"
+    ],
+    "Production companies": [
+      "Espectáculos Fílmicos El Coyúl",
+      "Pimienta Films",
+      "Participant Media",
+      "Esperanto Filmoj"
+    ],
+    "Distributed by": [
+      "Espectáculos Fílmicos El Coyúl (Mexico)",
+      "Netflix (Worldwide)"
+    ],
+    "Release date": [
+      "30 August 2018 ( Venice )",
+      "21 November 2018 (Mexico and United States)"
+    ],
+    "Running time": "135 minutes",
+    "Countries": [
+      "Mexico",
+      "United States"
+    ],
+    "Languages": [
+      "Spanish",
+      "Mixtec"
+    ],
+    "Budget": "$15 million",
+    "Box office": "$5.1 million",
+    "Running time (int)": 135,
+    "Budget (float)": 15000000.0,
+    "Box office (float)": 5100000.0,
+    "Release date (datetime)": "2018-08-30T00:00:00",
+    "Profit (float)": -9900000.0,
+    "IMDB Rating": "7.7",
+    "Metascore": "96",
+    "Rotten Tomatoes Score": null,
+    "Genres": "Drama",
+    "Maturity Rating": "R",
+    "Awards": "Won 3 Oscars. Another 242 wins & 212 nominations.",
+    "IMDB Rating (float)": 7.7,
+    "Metascore (int)": 96,
+    "Rotten Tomatoes Score (int)": "N/A"
+  },
+  {
+    "title": "A Star Is Born",
+    "Directed by": "Bradley Cooper",
+    "Produced by": [
+      "Bill Gerber",
+      "Jon Peters",
+      "Bradley Cooper",
+      "Todd Phillips",
+      "Lynette Howell Taylor"
+    ],
+    "Screenplay by": [
+      "Eric Roth",
+      "Bradley Cooper",
+      "Will Fetters"
+    ],
+    "Based on": [
+      "A Star Is Born (1954 screenplay) by Moss Hart",
+      "A Star Is Born (1976 screenplay) by John Gregory Dunne Joan Didion Frank Pierson",
+      "John Gregory Dunne",
+      "Joan Didion",
+      "Frank Pierson",
+      "A Star Is Born (story) by William Wellman Robert Carson",
+      "William Wellman",
+      "Robert Carson"
+    ],
+    "Starring": [
+      "Bradley Cooper",
+      "Lady Gaga",
+      "Andrew Dice Clay",
+      "Dave Chappelle",
+      "Sam Elliott"
+    ],
+    "Cinematography": "Matthew Libatique",
+    "Edited by": "Jay Cassidy",
+    "Production companies": [
+      "Metro-Goldwyn-Mayer",
+      "Live Nation Productions",
+      "Gerber Pictures",
+      "Peters Entertainment",
+      "Joint Effort"
+    ],
+    "Distributed by": "Warner Bros. Pictures",
+    "Release date": [
+      "August 31, 2018 ( Venice )",
+      "October 5, 2018 (United States)"
+    ],
+    "Running time": "136 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$36 million",
+    "Box office": "$436.2 million",
+    "Running time (int)": 136,
+    "Budget (float)": 36000000.0,
+    "Box office (float)": 436200000.0,
+    "Release date (datetime)": "2018-08-31T00:00:00",
+    "Profit (float)": 400200000.0,
+    "IMDB Rating": "7.6",
+    "Metascore": "88",
+    "Rotten Tomatoes Score": "90%",
+    "Genres": "Drama, Music, Romance",
+    "Maturity Rating": "R",
+    "Awards": "Won 1 Oscar. Another 93 wins & 275 nominations.",
+    "IMDB Rating (float)": 7.6,
+    "Metascore (int)": 88,
+    "Rotten Tomatoes Score (int)": "90"
+  },
+  {
+    "title": "Vice",
+    "Directed by": "Adam McKay",
+    "Produced by": [
+      "Brad Pitt",
+      "Dede Gardner",
+      "Jeremy Kleiner",
+      "Kevin J. Messick",
+      "Will Ferrell",
+      "Adam McKay"
+    ],
+    "Written by": "Adam McKay",
+    "Starring": [
+      "Christian Bale",
+      "Amy Adams",
+      "Steve Carell",
+      "Sam Rockwell",
+      "Tyler Perry",
+      "Alison Pill",
+      "Lily Rabe",
+      "Jesse Plemons"
+    ],
+    "Music by": "Nicholas Britell",
+    "Cinematography": "Greig Fraser",
+    "Edited by": "Hank Corwin",
+    "Production companies": [
+      "Plan B Entertainment",
+      "Gary Sanchez Productions",
+      "Annapurna Pictures"
+    ],
+    "Distributed by": "Mirror Releasing",
+    "Release date": [
+      "December 11, 2018 ( Samuel Goldwyn Theater )",
+      "December 25, 2018 (United States)"
+    ],
+    "Running time": "132 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$60 million",
+    "Box office": "$76.1 million",
+    "Running time (int)": 132,
+    "Budget (float)": 60000000.0,
+    "Box office (float)": 76100000.0,
+    "Release date (datetime)": "2018-12-11T00:00:00",
+    "Profit (float)": 16100000.0,
+    "IMDB Rating": "7.2",
+    "Metascore": "61",
+    "Rotten Tomatoes Score": "65%",
+    "Genres": "Biography, Comedy, Drama",
+    "Maturity Rating": "R",
+    "Awards": "Won 1 Oscar. Another 34 wins & 137 nominations.",
+    "IMDB Rating (float)": 7.2,
+    "Metascore (int)": 61,
+    "Rotten Tomatoes Score (int)": "65"
+  },
+  {
+    "title": "Parasite",
+    "Hangul": "",
+    "Revised Romanization": "Gisaengchung",
+    "McCune–Reischauer": "Kisaengch'ung",
+    "Directed by": "Bong Joon-ho",
+    "Produced by": [
+      "Kwak Sin-ae",
+      "Moon Yang-kwon",
+      "Bong Joon-ho",
+      "Jang Young-hwan"
+    ],
+    "Screenplay by": [
+      "Bong Joon-ho",
+      "Han Jin-won"
+    ],
+    "Story by": "Bong Joon-ho",
+    "Starring": [
+      "Song Kang-ho",
+      "Lee Sun-kyun",
+      "Cho Yeo-jeong",
+      "Choi Woo-shik",
+      "Park So-dam",
+      "Lee Jung-eun",
+      "Jang Hye-jin"
+    ],
+    "Music by": "Jung Jae-il",
+    "Cinematography": "Hong Kyung-pyo",
+    "Edited by": "Yang Jin-mo",
+    "Production company": "Barunson E&A",
+    "Distributed by": "CJ Entertainment",
+    "Release date": [
+      "21 May 2019 ( Cannes )",
+      "30 May 2019 (South Korea)",
+      "8 November 2019 (United States)"
+    ],
+    "Running time": "132 minutes",
+    "Country": "South Korea",
+    "Language": "Korean",
+    "Budget": [
+      "₩17.0 billion"
+    ],
+    "Box office": "$258.8 million",
+    "Running time (int)": 132,
+    "Budget (float)": 15000000,
+    "Box office (float)": 258800000.0,
+    "Release date (datetime)": "2019-05-21T00:00:00",
+    "Profit (float)": 243800000.0,
+    "IMDB Rating": "8.6",
+    "Metascore": "96",
+    "Rotten Tomatoes Score": "98%",
+    "Genres": "Comedy, Drama, Thriller",
+    "Maturity Rating": "R",
+    "Awards": "Won 4 Oscars. Another 297 wins & 265 nominations.",
+    "IMDB Rating (float)": 8.6,
+    "Metascore (int)": 96,
+    "Rotten Tomatoes Score (int)": "98"
+  },
+  {
+    "title": "1917",
+    "Directed by": "Sam Mendes",
+    "Produced by": [
+      "Sam Mendes",
+      "Pippa Harris",
+      "Jayne-Ann Tenggren",
+      "Callum McDougall",
+      "Brian Oliver"
+    ],
+    "Written by": [
+      "Sam Mendes",
+      "Krysty Wilson-Cairns"
+    ],
+    "Starring": [
+      "George MacKay",
+      "Dean-Charles Chapman",
+      "Mark Strong",
+      "Andrew Scott",
+      "Richard Madden",
+      "Claire Duburcq",
+      "Colin Firth",
+      "Benedict Cumberbatch"
+    ],
+    "Music by": "Thomas Newman",
+    "Cinematography": "Roger Deakins",
+    "Edited by": "Lee Smith",
+    "Production companies": [
+      "DreamWorks Pictures",
+      "Reliance Entertainment",
+      "New Republic Pictures",
+      "Mogambo",
+      "Neal Street Productions",
+      "Amblin Partners"
+    ],
+    "Distributed by": [
+      "Universal Pictures (Worldwide)",
+      "Entertainment One ( United Kingdom and Ireland )"
+    ],
+    "Release date": [
+      "4 December 2019 (London)",
+      "25 December 2019 (United States)",
+      "10 January 2020 (United Kingdom)"
+    ],
+    "Running time": "119 minutes",
+    "Countries": [
+      "United Kingdom",
+      "United States"
+    ],
+    "Language": "English",
+    "Budget": "$95 million",
+    "Box office": "$384.9 million",
+    "Running time (int)": 119,
+    "Budget (float)": 95000000.0,
+    "Box office (float)": 384900000.0,
+    "Release date (datetime)": "2019-12-04T00:00:00",
+    "Profit (float)": 289900000.0,
+    "IMDB Rating": "8.3",
+    "Metascore": "78",
+    "Rotten Tomatoes Score": "89%",
+    "Genres": "Drama, Thriller, War",
+    "Maturity Rating": "R",
+    "Awards": "Won 3 Oscars. Another 127 wins & 198 nominations.",
+    "IMDB Rating (float)": 8.3,
+    "Metascore (int)": 78,
+    "Rotten Tomatoes Score (int)": "89"
+  },
+  {
+    "title": "Ford v Ferrari",
+    "Directed by": "James Mangold",
+    "Produced by": [
+      "Peter Chernin",
+      "Jenno Topping",
+      "James Mangold"
+    ],
+    "Written by": [
+      "Jez Butterworth",
+      "John-Henry Butterworth",
+      "Jason Keller"
+    ],
+    "Starring": [
+      "Matt Damon",
+      "Christian Bale"
+    ],
+    "Music by": [
+      "Marco Beltrami",
+      "Buck Sanders"
+    ],
+    "Cinematography": "Phedon Papamichael",
+    "Edited by": [
+      "Michael McCusker",
+      "Andrew Buckland"
+    ],
+    "Production companies": [
+      "Chernin Entertainment",
+      "TSG Entertainment",
+      "Turnpike Films"
+    ],
+    "Distributed by": "20th Century Fox",
+    "Release date": [
+      "August 30, 2019 ( Telluride )",
+      "November 15, 2019 (United States)"
+    ],
+    "Running time": "152 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$97.6 million",
+    "Box office": "$225.5 million",
+    "Running time (int)": 152,
+    "Budget (float)": 97600000.0,
+    "Box office (float)": 225500000.0,
+    "Release date (datetime)": "2019-08-30T00:00:00",
+    "Profit (float)": 127900000.0,
+    "IMDB Rating": "8.1",
+    "Metascore": "81",
+    "Rotten Tomatoes Score": "92%",
+    "Genres": "Action, Biography, Drama, Sport",
+    "Maturity Rating": "PG-13",
+    "Awards": "Won 2 Oscars. Another 22 wins & 87 nominations.",
+    "IMDB Rating (float)": 8.1,
+    "Metascore (int)": 81,
+    "Rotten Tomatoes Score (int)": "92"
+  },
+  {
+    "title": "The Irishman",
+    "Directed by": "Martin Scorsese",
+    "Produced by": [
+      "Martin Scorsese",
+      "Robert De Niro",
+      "Jane Rosenthal",
+      "Emma Tillinger Koskoff",
+      "Irwin Winkler",
+      "Gerald Chamales",
+      "Gastón Pavlovich",
+      "Randall Emmett",
+      "Gabriele Israilovici"
+    ],
+    "Screenplay by": "Steven Zaillian",
+    "Based on": [
+      "I Heard You Paint Houses",
+      "by",
+      "Charles Brandt"
+    ],
+    "Starring": [
+      "Robert De Niro",
+      "Al Pacino",
+      "Joe Pesci",
+      "Ray Romano",
+      "Bobby Cannavale",
+      "Anna Paquin",
+      "Stephen Graham",
+      "Harvey Keitel"
+    ],
+    "Music by": "Robbie Robertson",
+    "Cinematography": "Rodrigo Prieto",
+    "Edited by": "Thelma Schoonmaker",
+    "Production companies": [
+      "TriBeCa Productions",
+      "Sikelia Productions",
+      "Winkler Films"
+    ],
+    "Distributed by": "Netflix",
+    "Release date": [
+      "September 27, 2019 ( NYFF )",
+      "November 1, 2019 (United States)"
+    ],
+    "Running time": "209 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$159–250 million",
+    "Box office": "$8 million",
+    "Running time (int)": 209,
+    "Budget (float)": 159000000.0,
+    "Box office (float)": 8000000.0,
+    "Release date (datetime)": "2019-09-27T00:00:00",
+    "Profit (float)": -151000000.0,
+    "IMDB Rating": "7.9",
+    "Metascore": "94",
+    "Rotten Tomatoes Score": "95%",
+    "Genres": "Biography, Crime, Drama",
+    "Maturity Rating": "R",
+    "Awards": "Nominated for 10 Oscars. Another 73 wins & 333 nominations.",
+    "IMDB Rating (float)": 7.9,
+    "Metascore (int)": 94,
+    "Rotten Tomatoes Score (int)": "95"
+  },
+  {
+    "title": "Jojo Rabbit",
+    "Directed by": "Taika Waititi",
+    "Produced by": [
+      "Carthew Neal",
+      "Taika Waititi",
+      "Chelsea Winstanley"
+    ],
+    "Screenplay by": "Taika Waititi",
+    "Based on": [
+      "Caging Skies",
+      "by",
+      "Christine Leunens"
+    ],
+    "Starring": [
+      "Roman Griffin Davis",
+      "Thomasin McKenzie",
+      "Taika Waititi",
+      "Rebel Wilson",
+      "Stephen Merchant",
+      "Alfie Allen",
+      "Sam Rockwell",
+      "Scarlett Johansson"
+    ],
+    "Music by": "Michael Giacchino",
+    "Cinematography": "Mihai Mălaimare Jr.",
+    "Edited by": "Tom Eagles",
+    "Production companies": [
+      "Fox Searchlight Pictures",
+      "TSG Entertainment",
+      "Defender Films",
+      "Piki Films"
+    ],
+    "Distributed by": "Fox Searchlight Pictures",
+    "Release date": [
+      "September 8, 2019 ( TIFF )",
+      "October 18, 2019 (United States)",
+      "October 24, 2019 (New Zealand)"
+    ],
+    "Running time": "108 minutes",
+    "Countries": [
+      "United States",
+      "New Zealand",
+      "Czech Republic"
+    ],
+    "Language": "English",
+    "Budget": "$14 million",
+    "Box office": "$90.3 million",
+    "Running time (int)": 108,
+    "Budget (float)": 14000000.0,
+    "Box office (float)": 90300000.0,
+    "Release date (datetime)": "2019-09-08T00:00:00",
+    "Profit (float)": 76300000.0,
+    "IMDB Rating": "7.9",
+    "Metascore": "58",
+    "Rotten Tomatoes Score": "80%",
+    "Genres": "Comedy, Drama, War",
+    "Maturity Rating": "PG-13",
+    "Awards": "Won 1 Oscar. Another 43 wins & 189 nominations.",
+    "IMDB Rating (float)": 7.9,
+    "Metascore (int)": 58,
+    "Rotten Tomatoes Score (int)": "80"
+  },
+  {
+    "title": "Joker",
+    "Directed by": "Todd Phillips",
+    "Produced by": [
+      "Todd Phillips",
+      "Bradley Cooper",
+      "Emma Tillinger Koskoff"
+    ],
+    "Written by": [
+      "Todd Phillips",
+      "Scott Silver"
+    ],
+    "Based on": [
+      "Characters",
+      "by",
+      "DC Comics"
+    ],
+    "Starring": [
+      "Joaquin Phoenix",
+      "Robert De Niro",
+      "Zazie Beetz",
+      "Frances Conroy"
+    ],
+    "Music by": "Hildur Guðnadóttir",
+    "Cinematography": "Lawrence Sher",
+    "Edited by": "Jeff Groth",
+    "Production companies": [
+      "Warner Bros. Pictures",
+      "DC Films",
+      "Joint Effort",
+      "Bron Creative",
+      "Village Roadshow Pictures"
+    ],
+    "Distributed by": "Warner Bros. Pictures",
+    "Release date": [
+      "August 31, 2019 ( Venice )",
+      "October 4, 2019 (United States)"
+    ],
+    "Running time": "122 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$55–70 million",
+    "Box office": "$1.074 billion",
+    "Running time (int)": 122,
+    "Budget (float)": 55000000.0,
+    "Box office (float)": 1074000000.0,
+    "Release date (datetime)": "2019-08-31T00:00:00",
+    "Profit (float)": 1019000000.0,
+    "IMDB Rating": "8.4",
+    "Metascore": "59",
+    "Rotten Tomatoes Score": "68%",
+    "Genres": "Crime, Drama, Thriller",
+    "Maturity Rating": "R",
+    "Awards": "Won 2 Oscars. Another 112 wins & 234 nominations.",
+    "IMDB Rating (float)": 8.4,
+    "Metascore (int)": 59,
+    "Rotten Tomatoes Score (int)": "68"
+  },
+  {
+    "title": "Little Women",
+    "Directed by": "Greta Gerwig",
+    "Produced by": [
+      "Amy Pascal",
+      "Denise Di Novi",
+      "Robin Swicord"
+    ],
+    "Screenplay by": "Greta Gerwig",
+    "Based on": [
+      "Little Women",
+      "by",
+      "Louisa May Alcott"
+    ],
+    "Starring": [
+      "Saoirse Ronan",
+      "Emma Watson",
+      "Florence Pugh",
+      "Eliza Scanlen",
+      "Laura Dern",
+      "Timothée Chalamet",
+      "Meryl Streep",
+      "Tracy Letts",
+      "Bob Odenkirk",
+      "James Norton",
+      "Louis Garrel",
+      "Chris Cooper"
+    ],
+    "Music by": "Alexandre Desplat",
+    "Cinematography": "Yorick Le Saux",
+    "Edited by": "Nick Houy",
+    "Production companies": [
+      "Columbia Pictures",
+      "Regency Enterprises",
+      "Pascal Pictures"
+    ],
+    "Distributed by": "Sony Pictures Releasing",
+    "Release date": [
+      "December 7, 2019 ( MoMA )",
+      "December 25, 2019 (United States)"
+    ],
+    "Running time": "135 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$40 million",
+    "Box office": "$218.8 million",
+    "Running time (int)": 135,
+    "Budget (float)": 40000000.0,
+    "Box office (float)": 218800000.0,
+    "Release date (datetime)": "2019-12-07T00:00:00",
+    "Profit (float)": 178800000.0,
+    "IMDB Rating": "7.8",
+    "Metascore": "91",
+    "Rotten Tomatoes Score": "95%",
+    "Genres": "Drama, Romance",
+    "Maturity Rating": "PG",
+    "Awards": "Won 1 Oscar. Another 75 wins & 216 nominations.",
+    "IMDB Rating (float)": 7.8,
+    "Metascore (int)": 91,
+    "Rotten Tomatoes Score (int)": "95"
+  },
+  {
+    "title": "Marriage Story",
+    "Directed by": "Noah Baumbach",
+    "Produced by": [
+      "David Heyman",
+      "Noah Baumbach"
+    ],
+    "Written by": "Noah Baumbach",
+    "Starring": [
+      "Scarlett Johansson",
+      "Adam Driver",
+      "Laura Dern",
+      "Alan Alda",
+      "Ray Liotta",
+      "Julie Hagerty",
+      "Merritt Wever"
+    ],
+    "Music by": "Randy Newman",
+    "Cinematography": "Robbie Ryan",
+    "Edited by": "Jennifer Lame",
+    "Production company": "Heyday Films",
+    "Distributed by": "Netflix",
+    "Release date": [
+      "August 29, 2019 ( Venice )",
+      "November 6, 2019 (United States)",
+      "November 15, 2019 (United Kingdom)"
+    ],
+    "Running time": "137 minutes",
+    "Countries": [
+      "United States",
+      "United Kingdom"
+    ],
+    "Language": "English",
+    "Budget": "$18 million",
+    "Box office": "$2.3 million",
+    "Running time (int)": 137,
+    "Budget (float)": 18000000.0,
+    "Box office (float)": 2300000.0,
+    "Release date (datetime)": "2019-08-29T00:00:00",
+    "Profit (float)": -15700000.0,
+    "IMDB Rating": "7.9",
+    "Metascore": "94",
+    "Rotten Tomatoes Score": "94%",
+    "Genres": "Comedy, Drama, Romance",
+    "Maturity Rating": "R",
+    "Awards": "Won 1 Oscar. Another 126 wins & 265 nominations.",
+    "IMDB Rating (float)": 7.9,
+    "Metascore (int)": 94,
+    "Rotten Tomatoes Score (int)": "94"
+  },
+  {
+    "title": "Once Upon a Time in Hollywood",
+    "Directed by": "Quentin Tarantino",
+    "Produced by": [
+      "David Heyman",
+      "Shannon McIntosh",
+      "Quentin Tarantino"
+    ],
+    "Written by": "Quentin Tarantino",
+    "Starring": [
+      "Leonardo DiCaprio",
+      "Brad Pitt",
+      "Margot Robbie",
+      "Emile Hirsch",
+      "Margaret Qualley",
+      "Timothy Olyphant",
+      "Austin Butler",
+      "Dakota Fanning",
+      "Bruce Dern",
+      "Al Pacino"
+    ],
+    "Cinematography": "Robert Richardson",
+    "Edited by": "Fred Raskin",
+    "Production companies": [
+      "Columbia Pictures",
+      "Bona Film Group",
+      "Heyday Films",
+      "Visiona Romantica"
+    ],
+    "Distributed by": "Sony Pictures Releasing",
+    "Release date": [
+      "May 21, 2019 ( Cannes )",
+      "July 26, 2019 (United States)",
+      "August 14, 2019 (United Kingdom)"
+    ],
+    "Running time": "161 minutes",
+    "Countries": [
+      "United States",
+      "United Kingdom",
+      "China"
+    ],
+    "Language": "English",
+    "Budget": "$90–96 million",
+    "Box office": "$374.3 million",
+    "Running time (int)": 161,
+    "Budget (float)": 90000000.0,
+    "Box office (float)": 374300000.0,
+    "Release date (datetime)": "2019-05-21T00:00:00",
+    "Profit (float)": 284300000.0,
+    "IMDB Rating": "7.6",
+    "Metascore": "83",
+    "Rotten Tomatoes Score": "85%",
+    "Genres": "Comedy, Drama",
+    "Maturity Rating": "R",
+    "Awards": "Won 2 Oscars. Another 134 wins & 372 nominations.",
+    "IMDB Rating (float)": 7.6,
+    "Metascore (int)": 83,
+    "Rotten Tomatoes Score (int)": "85"
+  }
+]
